@@ -29,7 +29,7 @@ def is_feed_changed(content, filepath):
     """Check if feed content has changed"""
     if not filepath.exists():
         return True
-    
+
     with open(filepath, 'r', encoding='utf-8') as f:
         old_content = f.read()
     return old_content != content
@@ -58,16 +58,16 @@ def update_index_html(feed_files):
     {feeds}
 </body>
 </html>"""
-    
+
     feed_entries = []
     for feed_file in feed_files:
         try:
             tree = ElementTree.parse(feed_file)
             root = tree.getroot()
-            
+
             # Try to get feed title (works for both RSS and Atom)
             title = root.find('.//title').text
-            
+
             feed_entries.append(f"""
     <div class="feed">
         <h2>{title}</h2>
@@ -75,12 +75,12 @@ def update_index_html(feed_files):
     </div>""")
         except Exception as e:
             print(f"Error processing {feed_file}: {e}")
-    
+
     html_content = html_template.format(
-        timestamp=datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC'),
+        timestamp=datetime.now(datetime.UTC).strftime('%Y-%m-%d %H:%M:%S UTC'),
         feeds='\n'.join(feed_entries)
     )
-    
+
     with open('feeds/index.html', 'w', encoding='utf-8') as f:
         f.write(html_content)
 
@@ -88,14 +88,14 @@ def main():
     config = load_config()
     feeds_dir = Path('feeds')
     feeds_dir.mkdir(exist_ok=True)
-    
+
     updated_feeds = []
-    
+
     for feed in config['feeds']:
         try:
             print(f"Fetching {feed['url']}")
             content = fetch_feed(feed['url'])
-            
+
             filepath = feeds_dir / sanitize_filename(feed['url'])
             if is_feed_changed(content, filepath):
                 print(f"Updating {filepath}")
@@ -103,10 +103,10 @@ def main():
                 updated_feeds.append(filepath)
             else:
                 print(f"No changes for {filepath}")
-        
+
         except Exception as e:
             print(f"Error processing {feed['url']}: {e}")
-    
+
     update_index_html(feeds_dir.glob('*.xml'))
 
 if __name__ == '__main__':
