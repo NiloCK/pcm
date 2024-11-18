@@ -2,3 +2,7 @@ feeds:
   - url: https://anchor.fm/s/1e4a0eac/podcast/rss
     name: Machine Learning Street Talk
     mirrorUrl: mlst
+
+  - url: https://anchor.fm/s/f3eccd24/podcast/rss
+    name: The Rollup
+    mirrorUrl: rollup
