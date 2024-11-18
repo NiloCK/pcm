@@ -48,8 +48,8 @@ def update_index_html(feed_files):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
-        body { font-family: sans-serif; max-width: 800px; margin: 0 auto; padding: 1rem; }
-        .feed { margin: 1rem 0; padding: 1rem; border: 1px solid #ccc; }
+        body {{ font-family: sans-serif; max-width: 800px; margin: 0 auto; padding: 1rem; }}
+        .feed {{ margin: 1rem 0; padding: 1rem; border: 1px solid #ccc; }}
     </style>
 </head>
 <body>
@@ -77,7 +77,7 @@ def update_index_html(feed_files):
             print(f"Error processing {feed_file}: {e}")
 
     html_content = html_template.format(
-        timestamp=datetime.now(datetime.UTC).strftime('%Y-%m-%d %H:%M:%S UTC'),
+        timestamp=datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC'),
         feeds='\n'.join(feed_entries)
     )
 
