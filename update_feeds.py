@@ -2,19 +2,36 @@
 import os
 import yaml
 import requests
-import hashlib
 from datetime import datetime
 from pathlib import Path
 from xml.etree import ElementTree
+from collections import Counter
 
 def load_config():
-    """Load feed configuration from config.yml"""
+    """Load and validate feed configuration from config.yml"""
     with open('config.yml', 'r') as f:
-        return yaml.safe_load(f)
+        config = yaml.safe_load(f)
 
-def sanitize_filename(url):
-    """Create a safe filename from URL"""
-    return hashlib.md5(url.encode()).hexdigest() + '.xml'
+    # Validate config structure
+    if not config or 'feeds' not in config:
+        raise ValueError("Config must contain 'feeds' section")
+
+    # Check for missing mirrorUrls
+    missing_urls = [feed['url'] for feed in config['feeds'] if 'mirrorUrl' not in feed]
+    if missing_urls:
+        raise ValueError(f"Missing mirrorUrl for feeds: {', '.join(missing_urls)}")
+
+    # Check for duplicate mirrorUrls
+    mirror_urls = [feed['mirrorUrl'] for feed in config['feeds']]
+    duplicates = [url for url, count in Counter(mirror_urls).items() if count > 1]
+    if duplicates:
+        raise ValueError(f"Duplicate mirrorUrls found: {', '.join(duplicates)}")
+
+    return config
+
+def get_feed_filename(feed):
+    """Create filename from mirrorUrl"""
+    return f"{feed['mirrorUrl']}.xml"
 
 def fetch_feed(url):
     """Fetch feed content with proper headers"""
@@ -39,7 +56,7 @@ def save_feed(content, filepath):
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(content)
 
-def update_index_html(feed_files):
+def update_index_html(feeds_config, feed_files):
     """Update index.html with links to all feeds"""
     html_template = """<!DOCTYPE html>
 <html>
@@ -60,18 +77,21 @@ def update_index_html(feed_files):
 </html>"""
 
     feed_entries = []
-    for feed_file in feed_files:
+    for feed in feeds_config['feeds']:
+        feed_file = Path('feeds') / get_feed_filename(feed)
         try:
-            tree = ElementTree.parse(feed_file)
-            root = tree.getroot()
+            if feed_file.exists():
+                tree = ElementTree.parse(feed_file)
+                root = tree.getroot()
+                # Try to get feed title (works for both RSS and Atom)
+                title = root.find('.//title').text
 
-            # Try to get feed title (works for both RSS and Atom)
-            title = root.find('.//title').text
-
-            feed_entries.append(f"""
+                feed_entries.append(f"""
     <div class="feed">
         <h2>{title}</h2>
-        <p>Mirror URL: <a href="{feed_file.name}">{feed_file.name}</a></p>
+        <p>{feed.get('description', '')}</p>
+        <p>Original URL: <a href="{feed['url']}">{feed['url']}</a></p>
+        <p>Mirror URL: <a href="{get_feed_filename(feed)}">{get_feed_filename(feed)}</a></p>
     </div>""")
         except Exception as e:
             print(f"Error processing {feed_file}: {e}")
@@ -96,7 +116,7 @@ def main():
             print(f"Fetching {feed['url']}")
             content = fetch_feed(feed['url'])
 
-            filepath = feeds_dir / sanitize_filename(feed['url'])
+            filepath = feeds_dir / get_feed_filename(feed)
             if is_feed_changed(content, filepath):
                 print(f"Updating {filepath}")
                 save_feed(content, filepath)
@@ -107,7 +127,7 @@ def main():
         except Exception as e:
             print(f"Error processing {feed['url']}: {e}")
 
-    update_index_html(feeds_dir.glob('*.xml'))
+    update_index_html(config, feeds_dir.glob('*.xml'))
 
 if __name__ == '__main__':
     main()
