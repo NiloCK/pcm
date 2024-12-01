@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/machinelearningstreettalk</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 25 Nov 2024 08:04:12 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 01 Dec 2024 12:27:41 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/1e4a0eac/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Machine Learning Street Talk (MLST)]]></author>
 		<copyright><![CDATA[Machine Learning Street Talk (MLST)]]></copyright>
@@ -25,6 +25,134 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+		<item>
+			<title><![CDATA[Jonas Hübotter (ETH) - Test Time Inference]]></title>
+			<description><![CDATA[<p>Jonas Hübotter, PhD student at ETH Zurich's Institute for Machine Learning, discusses his groundbreaking research on test-time computation and local learning. He demonstrates how smaller models can outperform larger ones by 30x through strategic test-time computation and introduces a novel paradigm combining inductive and transductive learning approaches.</p>
+<p><br /></p>
+<p>Using Bayesian linear regression as a surrogate model for uncertainty estimation, Jonas explains how models can efficiently adapt to specific tasks without massive pre-training. He draws an analogy to Google Earth's variable resolution system to illustrate dynamic resource allocation based on task complexity.</p>
+<p><br /></p>
+<p>The conversation explores the future of AI architecture, envisioning systems that continuously learn and adapt beyond current monolithic models. Jonas concludes by proposing hybrid deployment strategies combining local and cloud computation, suggesting a future where compute resources are allocated based on task complexity rather than fixed model size.</p>
+<p><br /></p>
+<p>This research represents a significant shift in machine learning, prioritizing intelligent resource allocation and adaptive learning over traditional scaling approaches.</p>
+<p><br /></p>
+<p>SPONSOR MESSAGES:</p>
+<p>CentML offers competitive pricing for GenAI model deployment, with flexible options to suit a wide range of models, from small to large-scale deployments. </p>
+<p>https://centml.ai/pricing/</p>
+<p><br /></p>
+<p>Tufa AI Labs is a brand new research lab in Zurich started by Benjamin Crouzier focussed on ARC and AGI, they just acquired MindsAI - the current winners of the ARC challenge. Are you interested in working on ARC, or getting involved in their events? Goto https://tufalabs.ai/</p>
+<p><br /></p>
+<p>Transcription, references and show notes PDF download:</p>
+<p>https://www.dropbox.com/scl/fi/cxg80p388snwt6qbp4m52/JonasFinal.pdf?rlkey=glk9mhpzjvesanlc14rtpvk4r&amp;st=6qwi8n3x&amp;dl=0</p>
+<p><br /></p>
+<p>Jonas Hübotter</p>
+<p>https://jonhue.github.io/</p>
+<p>https://scholar.google.com/citations?user=pxi_RkwAAAAJ</p>
+<p><br /></p>
+<p>Transductive Active Learning: Theory and Applications (NeurIPS 2024)</p>
+<p>https://arxiv.org/pdf/2402.15898</p>
+<p><br /></p>
+<p>EFFICIENTLY LEARNING AT TEST-TIME: ACTIVE FINE-TUNING OF LLMS (SIFT)</p>
+<p>https://arxiv.org/pdf/2410.08020</p>
+<p><br /></p>
+<p>TOC:</p>
+<p>1. Test-Time Computation Fundamentals</p>
+<p>[00:00:00] Intro</p>
+<p>[00:03:10] 1.1 Test-Time Computation and Model Performance Comparison</p>
+<p>[00:05:52] 1.2 Retrieval Augmentation and Machine Teaching Strategies</p>
+<p>[00:09:40] 1.3 In-Context Learning vs Fine-Tuning Trade-offs</p>
+<p><br /></p>
+<p>2. System Architecture and Intelligence</p>
+<p>[00:15:58] 2.1 System Architecture and Intelligence Emergence</p>
+<p>[00:23:22] 2.2 Active Inference and Constrained Agency in AI</p>
+<p>[00:29:52] 2.3 Evolution of Local Learning Methods</p>
+<p>[00:32:05] 2.4 Vapnik's Contributions to Transductive Learning</p>
+<p><br /></p>
+<p>3. Resource Optimization and Local Learning</p>
+<p>[00:34:35] 3.1 Computational Resource Allocation in ML Models</p>
+<p>[00:35:30] 3.2 Historical Context and Traditional ML Optimization</p>
+<p>[00:37:55] 3.3 Variable Resolution Processing and Active Inference in ML</p>
+<p>[00:43:01] 3.4 Local Learning and Base Model Capacity Trade-offs</p>
+<p>[00:48:04] 3.5 Active Learning vs Local Learning Approaches</p>
+<p><br /></p>
+<p>4. Information Retrieval and Model Interpretability</p>
+<p>[00:51:08] 4.1 Information Retrieval and Nearest Neighbor Limitations</p>
+<p>[01:03:07] 4.2 Model Interpretability and Surrogate Models</p>
+<p>[01:15:03] 4.3 Bayesian Uncertainty Estimation and Surrogate Models</p>
+<p><br /></p>
+<p>5. Distributed Systems and Deployment</p>
+<p>[01:23:56] 5.1 Memory Architecture and Controller Systems</p>
+<p>[01:28:14] 5.2 Evolution from Static to Distributed Learning Systems</p>
+<p>[01:38:03] 5.3 Transductive Learning and Model Specialization</p>
+<p>[01:41:58] 5.4 Hybrid Local-Cloud Deployment Strategies</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/Jonas-Hbotter-ETH---Test-Time-Inference-e2rnle4</link>
+			<guid isPermaLink="false">68e9b1ef-5394-4333-9063-266fc097f13e</guid>
+			<dc:creator><![CDATA[Machine Learning Street Talk (MLST)]]></dc:creator>
+			<pubDate>Sun, 01 Dec 2024 12:25:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1e4a0eac/podcast/play/95196036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-1%2Fc5b25fea-927b-5deb-5e11-619380dee886.mp3" length="153123931" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Jonas Hübotter, PhD student at ETH Zurich&apos;s Institute for Machine Learning, discusses his groundbreaking research on test-time computation and local learning. He demonstrates how smaller models can outperform larger ones by 30x through strategic test-time computation and introduces a novel paradigm combining inductive and transductive learning approaches.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Using Bayesian linear regression as a surrogate model for uncertainty estimation, Jonas explains how models can efficiently adapt to specific tasks without massive pre-training. He draws an analogy to Google Earth&apos;s variable resolution system to illustrate dynamic resource allocation based on task complexity.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The conversation explores the future of AI architecture, envisioning systems that continuously learn and adapt beyond current monolithic models. Jonas concludes by proposing hybrid deployment strategies combining local and cloud computation, suggesting a future where compute resources are allocated based on task complexity rather than fixed model size.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;This research represents a significant shift in machine learning, prioritizing intelligent resource allocation and adaptive learning over traditional scaling approaches.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;SPONSOR MESSAGES:&lt;/p&gt;
+&lt;p&gt;CentML offers competitive pricing for GenAI model deployment, with flexible options to suit a wide range of models, from small to large-scale deployments. &lt;/p&gt;
+&lt;p&gt;https://centml.ai/pricing/&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Tufa AI Labs is a brand new research lab in Zurich started by Benjamin Crouzier focussed on ARC and AGI, they just acquired MindsAI - the current winners of the ARC challenge. Are you interested in working on ARC, or getting involved in their events? Goto https://tufalabs.ai/&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Transcription, references and show notes PDF download:&lt;/p&gt;
+&lt;p&gt;https://www.dropbox.com/scl/fi/cxg80p388snwt6qbp4m52/JonasFinal.pdf?rlkey=glk9mhpzjvesanlc14rtpvk4r&amp;amp;st=6qwi8n3x&amp;amp;dl=0&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Jonas Hübotter&lt;/p&gt;
+&lt;p&gt;https://jonhue.github.io/&lt;/p&gt;
+&lt;p&gt;https://scholar.google.com/citations?user=pxi_RkwAAAAJ&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Transductive Active Learning: Theory and Applications (NeurIPS 2024)&lt;/p&gt;
+&lt;p&gt;https://arxiv.org/pdf/2402.15898&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;EFFICIENTLY LEARNING AT TEST-TIME: ACTIVE FINE-TUNING OF LLMS (SIFT)&lt;/p&gt;
+&lt;p&gt;https://arxiv.org/pdf/2410.08020&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;TOC:&lt;/p&gt;
+&lt;p&gt;1. Test-Time Computation Fundamentals&lt;/p&gt;
+&lt;p&gt;[00:00:00] Intro&lt;/p&gt;
+&lt;p&gt;[00:03:10] 1.1 Test-Time Computation and Model Performance Comparison&lt;/p&gt;
+&lt;p&gt;[00:05:52] 1.2 Retrieval Augmentation and Machine Teaching Strategies&lt;/p&gt;
+&lt;p&gt;[00:09:40] 1.3 In-Context Learning vs Fine-Tuning Trade-offs&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;2. System Architecture and Intelligence&lt;/p&gt;
+&lt;p&gt;[00:15:58] 2.1 System Architecture and Intelligence Emergence&lt;/p&gt;
+&lt;p&gt;[00:23:22] 2.2 Active Inference and Constrained Agency in AI&lt;/p&gt;
+&lt;p&gt;[00:29:52] 2.3 Evolution of Local Learning Methods&lt;/p&gt;
+&lt;p&gt;[00:32:05] 2.4 Vapnik&apos;s Contributions to Transductive Learning&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;3. Resource Optimization and Local Learning&lt;/p&gt;
+&lt;p&gt;[00:34:35] 3.1 Computational Resource Allocation in ML Models&lt;/p&gt;
+&lt;p&gt;[00:35:30] 3.2 Historical Context and Traditional ML Optimization&lt;/p&gt;
+&lt;p&gt;[00:37:55] 3.3 Variable Resolution Processing and Active Inference in ML&lt;/p&gt;
+&lt;p&gt;[00:43:01] 3.4 Local Learning and Base Model Capacity Trade-offs&lt;/p&gt;
+&lt;p&gt;[00:48:04] 3.5 Active Learning vs Local Learning Approaches&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;4. Information Retrieval and Model Interpretability&lt;/p&gt;
+&lt;p&gt;[00:51:08] 4.1 Information Retrieval and Nearest Neighbor Limitations&lt;/p&gt;
+&lt;p&gt;[01:03:07] 4.2 Model Interpretability and Surrogate Models&lt;/p&gt;
+&lt;p&gt;[01:15:03] 4.3 Bayesian Uncertainty Estimation and Surrogate Models&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;5. Distributed Systems and Deployment&lt;/p&gt;
+&lt;p&gt;[01:23:56] 5.1 Memory Architecture and Controller Systems&lt;/p&gt;
+&lt;p&gt;[01:28:14] 5.2 Evolution from Static to Distributed Learning Systems&lt;/p&gt;
+&lt;p&gt;[01:38:03] 5.3 Transductive Learning and Model Specialization&lt;/p&gt;
+&lt;p&gt;[01:41:58] 5.4 Hybrid Local-Cloud Deployment Strategies&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:45:56</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/4981699/4981699-1733055872680-6badfa855d9d4.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[How AI Could Be A Mathematician's Co-Pilot by 2026 (Prof. Swarat Chaudhuri)]]></title>
 			<description><![CDATA[<p>Professor Swarat Chaudhuri from the University of Texas at Austin and visiting researcher at Google DeepMind discusses breakthroughs in AI reasoning, theorem proving, and mathematical discovery. Chaudhuri explains his groundbreaking work on COPRA (a GPT-based prover agent), shares insights on neurosymbolic approaches to AI.</p>
