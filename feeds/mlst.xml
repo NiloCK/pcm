@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/machinelearningstreettalk</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 01 Dec 2024 12:27:41 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 07 Dec 2024 21:19:36 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/1e4a0eac/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Machine Learning Street Talk (MLST)]]></author>
 		<copyright><![CDATA[Machine Learning Street Talk (MLST)]]></copyright>
@@ -25,6 +25,156 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+		<item>
+			<title><![CDATA[Neel Nanda - Mechanistic Interpretability (Sparse Autoencoders)]]></title>
+			<description><![CDATA[<p>Neel Nanda, a senior research scientist at Google DeepMind, leads their mechanistic interpretability team. In this extensive interview, he discusses his work trying to understand how neural networks function internally. At just 25 years old, Nanda has quickly become a prominent voice in AI research after completing his pure mathematics degree at Cambridge in 2020.</p>
+<p><br /></p>
+<p>Nanda reckons that machine learning is unique because we create neural networks that can perform impressive tasks (like complex reasoning and software engineering) without understanding how they work internally. He compares this to having computer programs that can do things no human programmer knows how to write. His work focuses on "mechanistic interpretability" - attempting to uncover and understand the internal structures and algorithms that emerge within these networks.</p>
+<p><br /></p>
+<p>SPONSOR MESSAGES:</p>
+<p>***</p>
+<p>CentML offers competitive pricing for GenAI model deployment, with flexible options to suit a wide range of models, from small to large-scale deployments. </p>
+<p>https://centml.ai/pricing/</p>
+<p><br /></p>
+<p>Tufa AI Labs is a brand new research lab in Zurich started by Benjamin Crouzier focussed on ARC and AGI, they just acquired MindsAI - the current winners of the ARC challenge. Are you interested in working on ARC, or getting involved in their events? Goto https://tufalabs.ai/</p>
+<p>***</p>
+<p><br /></p>
+<p>SHOWNOTES, TRANSCRIPT, ALL REFERENCES (DONT MISS!):</p>
+<p>https://www.dropbox.com/scl/fi/36dvtfl3v3p56hbi30im7/NeelShow.pdf?rlkey=pq8t7lyv2z60knlifyy17jdtx&amp;st=kiutudhc&amp;dl=0</p>
+<p><br /></p>
+<p>We riff on:</p>
+<p>* How neural networks develop meaningful internal representations beyond simple pattern matching</p>
+<p>* The effectiveness of chain-of-thought prompting and why it improves model performance</p>
+<p>* The importance of hands-on coding over extensive paper reading for new researchers</p>
+<p>* His journey from Cambridge to working with Chris Olah at Anthropic and eventually Google DeepMind</p>
+<p>* The role of mechanistic interpretability in AI safety</p>
+<p><br /></p>
+<p>NEEL NANDA:</p>
+<p>https://www.neelnanda.io/</p>
+<p>https://scholar.google.com/citations?user=GLnX3MkAAAAJ&amp;hl=en</p>
+<p>https://x.com/NeelNanda5</p>
+<p><br /></p>
+<p>Interviewer - Tim Scarfe</p>
+<p><br /></p>
+<p>TOC:</p>
+<p>1. Part 1: Introduction</p>
+<p>[00:00:00] 1.1 Introduction and Core Concepts Overview</p>
+<p><br /></p>
+<p>2. Part 2: Outside Interview</p>
+<p>[00:06:45] 2.1 Mechanistic Interpretability Foundations</p>
+<p><br /></p>
+<p>3. Part 3: Main Interview</p>
+<p>[00:32:52] 3.1 Mechanistic Interpretability</p>
+<p><br /></p>
+<p>4. Neural Architecture and Circuits</p>
+<p>[01:00:31] 4.1 Biological Evolution Parallels</p>
+<p>[01:04:03] 4.2 Universal Circuit Patterns and Induction Heads</p>
+<p>[01:11:07] 4.3 Entity Detection and Knowledge Boundaries</p>
+<p>[01:14:26] 4.4 Mechanistic Interpretability and Activation Patching</p>
+<p><br /></p>
+<p>5. Model Behavior Analysis</p>
+<p>[01:30:00] 5.1 Golden Gate Claude Experiment and Feature Amplification</p>
+<p>[01:33:27] 5.2 Model Personas and RLHF Behavior Modification</p>
+<p>[01:36:28] 5.3 Steering Vectors and Linear Representations</p>
+<p>[01:40:00] 5.4 Hallucinations and Model Uncertainty</p>
+<p><br /></p>
+<p>6. Sparse Autoencoder Architecture</p>
+<p>[01:44:54] 6.1 Architecture and Mathematical Foundations</p>
+<p>[02:22:03] 6.2 Core Challenges and Solutions</p>
+<p>[02:32:04] 6.3 Advanced Activation Functions and Top-k Implementations</p>
+<p>[02:34:41] 6.4 Research Applications in Transformer Circuit Analysis</p>
+<p><br /></p>
+<p>7. Feature Learning and Scaling</p>
+<p>[02:48:02] 7.1 Autoencoder Feature Learning and Width Parameters</p>
+<p>[03:02:46] 7.2 Scaling Laws and Training Stability</p>
+<p>[03:11:00] 7.3 Feature Identification and Bias Correction</p>
+<p>[03:19:52] 7.4 Training Dynamics Analysis Methods</p>
+<p><br /></p>
+<p>8. Engineering Implementation</p>
+<p>[03:23:48] 8.1 Scale and Infrastructure Requirements</p>
+<p>[03:25:20] 8.2 Computational Requirements and Storage</p>
+<p>[03:35:22] 8.3 Chain-of-Thought Reasoning Implementation</p>
+<p>[03:37:15] 8.4 Latent Structure Inference in Language Models</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/Neel-Nanda---Mechanistic-Interpretability-Sparse-Autoencoders-e2s186i</link>
+			<guid isPermaLink="false">0f86c9e2-9e94-4c36-9bb9-072e28332c51</guid>
+			<dc:creator><![CDATA[Machine Learning Street Talk (MLST)]]></dc:creator>
+			<pubDate>Sat, 07 Dec 2024 21:14:42 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1e4a0eac/podcast/play/95510162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-7%2Fc6f11920-f06a-6c65-f767-1b957d252a38.mp3" length="320950907" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Neel Nanda, a senior research scientist at Google DeepMind, leads their mechanistic interpretability team. In this extensive interview, he discusses his work trying to understand how neural networks function internally. At just 25 years old, Nanda has quickly become a prominent voice in AI research after completing his pure mathematics degree at Cambridge in 2020.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Nanda reckons that machine learning is unique because we create neural networks that can perform impressive tasks (like complex reasoning and software engineering) without understanding how they work internally. He compares this to having computer programs that can do things no human programmer knows how to write. His work focuses on &quot;mechanistic interpretability&quot; - attempting to uncover and understand the internal structures and algorithms that emerge within these networks.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;SPONSOR MESSAGES:&lt;/p&gt;
+&lt;p&gt;***&lt;/p&gt;
+&lt;p&gt;CentML offers competitive pricing for GenAI model deployment, with flexible options to suit a wide range of models, from small to large-scale deployments. &lt;/p&gt;
+&lt;p&gt;https://centml.ai/pricing/&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Tufa AI Labs is a brand new research lab in Zurich started by Benjamin Crouzier focussed on ARC and AGI, they just acquired MindsAI - the current winners of the ARC challenge. Are you interested in working on ARC, or getting involved in their events? Goto https://tufalabs.ai/&lt;/p&gt;
+&lt;p&gt;***&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;SHOWNOTES, TRANSCRIPT, ALL REFERENCES (DONT MISS!):&lt;/p&gt;
+&lt;p&gt;https://www.dropbox.com/scl/fi/36dvtfl3v3p56hbi30im7/NeelShow.pdf?rlkey=pq8t7lyv2z60knlifyy17jdtx&amp;amp;st=kiutudhc&amp;amp;dl=0&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;We riff on:&lt;/p&gt;
+&lt;p&gt;* How neural networks develop meaningful internal representations beyond simple pattern matching&lt;/p&gt;
+&lt;p&gt;* The effectiveness of chain-of-thought prompting and why it improves model performance&lt;/p&gt;
+&lt;p&gt;* The importance of hands-on coding over extensive paper reading for new researchers&lt;/p&gt;
+&lt;p&gt;* His journey from Cambridge to working with Chris Olah at Anthropic and eventually Google DeepMind&lt;/p&gt;
+&lt;p&gt;* The role of mechanistic interpretability in AI safety&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;NEEL NANDA:&lt;/p&gt;
+&lt;p&gt;https://www.neelnanda.io/&lt;/p&gt;
+&lt;p&gt;https://scholar.google.com/citations?user=GLnX3MkAAAAJ&amp;amp;hl=en&lt;/p&gt;
+&lt;p&gt;https://x.com/NeelNanda5&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Interviewer - Tim Scarfe&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;TOC:&lt;/p&gt;
+&lt;p&gt;1. Part 1: Introduction&lt;/p&gt;
+&lt;p&gt;[00:00:00] 1.1 Introduction and Core Concepts Overview&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;2. Part 2: Outside Interview&lt;/p&gt;
+&lt;p&gt;[00:06:45] 2.1 Mechanistic Interpretability Foundations&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;3. Part 3: Main Interview&lt;/p&gt;
+&lt;p&gt;[00:32:52] 3.1 Mechanistic Interpretability&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;4. Neural Architecture and Circuits&lt;/p&gt;
+&lt;p&gt;[01:00:31] 4.1 Biological Evolution Parallels&lt;/p&gt;
+&lt;p&gt;[01:04:03] 4.2 Universal Circuit Patterns and Induction Heads&lt;/p&gt;
+&lt;p&gt;[01:11:07] 4.3 Entity Detection and Knowledge Boundaries&lt;/p&gt;
+&lt;p&gt;[01:14:26] 4.4 Mechanistic Interpretability and Activation Patching&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;5. Model Behavior Analysis&lt;/p&gt;
+&lt;p&gt;[01:30:00] 5.1 Golden Gate Claude Experiment and Feature Amplification&lt;/p&gt;
+&lt;p&gt;[01:33:27] 5.2 Model Personas and RLHF Behavior Modification&lt;/p&gt;
+&lt;p&gt;[01:36:28] 5.3 Steering Vectors and Linear Representations&lt;/p&gt;
+&lt;p&gt;[01:40:00] 5.4 Hallucinations and Model Uncertainty&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;6. Sparse Autoencoder Architecture&lt;/p&gt;
+&lt;p&gt;[01:44:54] 6.1 Architecture and Mathematical Foundations&lt;/p&gt;
+&lt;p&gt;[02:22:03] 6.2 Core Challenges and Solutions&lt;/p&gt;
+&lt;p&gt;[02:32:04] 6.3 Advanced Activation Functions and Top-k Implementations&lt;/p&gt;
+&lt;p&gt;[02:34:41] 6.4 Research Applications in Transformer Circuit Analysis&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;7. Feature Learning and Scaling&lt;/p&gt;
+&lt;p&gt;[02:48:02] 7.1 Autoencoder Feature Learning and Width Parameters&lt;/p&gt;
+&lt;p&gt;[03:02:46] 7.2 Scaling Laws and Training Stability&lt;/p&gt;
+&lt;p&gt;[03:11:00] 7.3 Feature Identification and Bias Correction&lt;/p&gt;
+&lt;p&gt;[03:19:52] 7.4 Training Dynamics Analysis Methods&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;8. Engineering Implementation&lt;/p&gt;
+&lt;p&gt;[03:23:48] 8.1 Scale and Infrastructure Requirements&lt;/p&gt;
+&lt;p&gt;[03:25:20] 8.2 Computational Requirements and Storage&lt;/p&gt;
+&lt;p&gt;[03:35:22] 8.3 Chain-of-Thought Reasoning Implementation&lt;/p&gt;
+&lt;p&gt;[03:37:15] 8.4 Latent Structure Inference in Language Models&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>03:42:36</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/4981699/4981699-1733606039000-2b398ea8efb61.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Jonas Hübotter (ETH) - Test Time Inference]]></title>
 			<description><![CDATA[<p>Jonas Hübotter, PhD student at ETH Zurich's Institute for Machine Learning, discusses his groundbreaking research on test-time computation and local learning. He demonstrates how smaller models can outperform larger ones by 30x through strategic test-time computation and introduces a novel paradigm combining inductive and transductive learning approaches.</p>
