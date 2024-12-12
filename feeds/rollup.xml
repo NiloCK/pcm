@@ -11,7 +11,7 @@ therollup.co]]></description>
 			<link>https://therollup.co</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 12 Dec 2024 03:52:47 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Dec 2024 13:46:50 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f3eccd24/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[The Rollup Co]]></author>
 		<copyright><![CDATA[The Rollup Co]]></copyright>
@@ -31,6 +31,68 @@ therollup.co</itunes:summary>
 			<itunes:category text="Investing"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+		<item>
+			<title><![CDATA[Why Based Rollups Are Ethereum's Best Bet with Sam Battenally]]></title>
+			<description><![CDATA[<p>For today's episode, were taking a deep dive into based rollups to answer the following question:
+
+Could the next breakthrough in Ethereum scaling come from working with the network rather than around it? 
+
+While most rollup solutions build separate consensus layers, an intriguing new approach called based rollups takes a different path – leveraging Ethereum's existing validator network to sequence blocks.
+
+Rather than creating parallel consensus mechanisms, based rollups tap directly into Ethereum's established validator set. This creates a more cohesive ecosystem where rollups share both infrastructure and security.
+
+The Rise team is pioneering this approach with innovations like parallel EVM engines and versioned Merkle trees. Their solution becomes particularly compelling as more based rollups join the ecosystem, and better composability properties are unlocked.
+
+The benefits compound naturally – each new participant contributes to shared security costs and improves liquidity efficiency. This network effect, combined with the emergence of the "GigaGas era," could enable entirely new categories of blockchain applications. 
+
+Enjoy.
+Join The Rollup Edge: https://members.therollup.co
+Website: https://therollup.co/
+Spotify: https://open.spotify.com/show/1P6ZeYd..
+Podcast: https://therollup.co/category/podcast
+Follow us on X: https://www.x.com/therollupco
+Follow Rob on X: https://www.x.com/robbie_rollup
+Follow Andy on X: https://www.x.com/ayyyeandy
+Join our TG group: https://t.me/+8ARkR_YZixE5YjBh
+The Rollup Disclosures: https://therollup.co/the-rollup-discl
+
+𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: 𝘐𝘯𝘷𝘦𝘴𝘵𝘪𝘯𝘨 𝘪𝘯 𝘤𝘳𝘺𝘱𝘵𝘰𝘤𝘶𝘳𝘳𝘦𝘯𝘤𝘺 𝘢𝘯𝘥 𝘋𝘦𝘍𝘪 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮𝘴 𝘤𝘰𝘮𝘦𝘴 𝘸𝘪𝘵𝘩 𝘪𝘯𝘩𝘦𝘳𝘦𝘯𝘵 𝘳𝘪𝘴𝘬𝘴 𝘪𝘯𝘤𝘭𝘶𝘥𝘪𝘯𝘨 𝘵𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭 𝘳𝘪𝘴𝘬, 𝘩𝘶𝘮𝘢𝘯 𝘦𝘳𝘳𝘰𝘳, 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮 𝘧𝘢𝘪𝘭𝘶𝘳𝘦 𝘢𝘯𝘥 𝘮𝘰𝘳𝘦. 𝘈𝘵 𝘤𝘦𝘳𝘵𝘢𝘪𝘯 𝘱𝘰𝘪𝘯𝘵𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩𝘰𝘶𝘵 𝘵𝘩𝘪𝘴 𝘤𝘩𝘢𝘯𝘯𝘦𝘭, 𝘸𝘦 𝘮𝘢𝘺 𝘦𝘢𝘳𝘯 𝘢 𝘤𝘰𝘮𝘮𝘪𝘴𝘴𝘪𝘰𝘯 𝘰𝘳 𝘧𝘦𝘦 𝘢𝘴 𝘢 𝘴𝘱𝘰𝘯𝘴𝘰𝘳𝘴𝘩𝘪𝘱, 𝘪𝘧 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘵𝘩𝘦 𝘤𝘢𝘴𝘦 𝘸𝘦 𝘸𝘪𝘭𝘭 𝘢𝘭𝘸𝘢𝘺𝘴 𝘮𝘢𝘬𝘦 𝘴𝘶𝘳𝘦 𝘪𝘵 𝘪𝘴 𝘤𝘭𝘦𝘢𝘳. 𝘞𝘦 𝘢𝘳𝘦 𝘴𝘵𝘳𝘪𝘤𝘵𝘭𝘺 𝘢𝘯 𝘦𝘥𝘶𝘤𝘢𝘵𝘪𝘰𝘯𝘢𝘭 𝘤𝘰𝘯𝘵𝘦𝘯𝘵 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮, 𝘯𝘰𝘵𝘩𝘪𝘯𝘨 𝘸𝘦 𝘰𝘧𝘧𝘦𝘳 𝘪𝘴 𝘧𝘪𝘯𝘢𝘯𝘤𝘪𝘢𝘭 𝘢𝘥𝘷𝘪𝘤𝘦. 𝘞𝘦 𝘢𝘳𝘦 𝘯𝘰𝘵 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭𝘴 𝘰𝘳 𝘭𝘪𝘤𝘦𝘯𝘴𝘦𝘥 𝘢𝘥𝘷𝘪𝘴𝘰𝘳𝘴.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/the-rollup/episodes/Why-Based-Rollups-Are-Ethereums-Best-Bet-with-Sam-Battenally-e2s7fmh</link>
+			<guid isPermaLink="false">08d46b8e-b055-40d6-80c1-a84cc8ec1dd3</guid>
+			<dc:creator><![CDATA[The Rollup Co]]></dc:creator>
+			<pubDate>Thu, 12 Dec 2024 13:45:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/f3eccd24/podcast/play/95714449/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-12%2F391412727-44100-2-b6a85ddd90113.mp3" length="35666963" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;For today&apos;s episode, were taking a deep dive into based rollups to answer the following question:
+
+Could the next breakthrough in Ethereum scaling come from working with the network rather than around it? 
+
+While most rollup solutions build separate consensus layers, an intriguing new approach called based rollups takes a different path – leveraging Ethereum&apos;s existing validator network to sequence blocks.
+
+Rather than creating parallel consensus mechanisms, based rollups tap directly into Ethereum&apos;s established validator set. This creates a more cohesive ecosystem where rollups share both infrastructure and security.
+
+The Rise team is pioneering this approach with innovations like parallel EVM engines and versioned Merkle trees. Their solution becomes particularly compelling as more based rollups join the ecosystem, and better composability properties are unlocked.
+
+The benefits compound naturally – each new participant contributes to shared security costs and improves liquidity efficiency. This network effect, combined with the emergence of the &quot;GigaGas era,&quot; could enable entirely new categories of blockchain applications. 
+
+Enjoy.
+Join The Rollup Edge: https://members.therollup.co
+Website: https://therollup.co/
+Spotify: https://open.spotify.com/show/1P6ZeYd..
+Podcast: https://therollup.co/category/podcast
+Follow us on X: https://www.x.com/therollupco
+Follow Rob on X: https://www.x.com/robbie_rollup
+Follow Andy on X: https://www.x.com/ayyyeandy
+Join our TG group: https://t.me/+8ARkR_YZixE5YjBh
+The Rollup Disclosures: https://therollup.co/the-rollup-discl
+
+𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: 𝘐𝘯𝘷𝘦𝘴𝘵𝘪𝘯𝘨 𝘪𝘯 𝘤𝘳𝘺𝘱𝘵𝘰𝘤𝘶𝘳𝘳𝘦𝘯𝘤𝘺 𝘢𝘯𝘥 𝘋𝘦𝘍𝘪 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮𝘴 𝘤𝘰𝘮𝘦𝘴 𝘸𝘪𝘵𝘩 𝘪𝘯𝘩𝘦𝘳𝘦𝘯𝘵 𝘳𝘪𝘴𝘬𝘴 𝘪𝘯𝘤𝘭𝘶𝘥𝘪𝘯𝘨 𝘵𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭 𝘳𝘪𝘴𝘬, 𝘩𝘶𝘮𝘢𝘯 𝘦𝘳𝘳𝘰𝘳, 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮 𝘧𝘢𝘪𝘭𝘶𝘳𝘦 𝘢𝘯𝘥 𝘮𝘰𝘳𝘦. 𝘈𝘵 𝘤𝘦𝘳𝘵𝘢𝘪𝘯 𝘱𝘰𝘪𝘯𝘵𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩𝘰𝘶𝘵 𝘵𝘩𝘪𝘴 𝘤𝘩𝘢𝘯𝘯𝘦𝘭, 𝘸𝘦 𝘮𝘢𝘺 𝘦𝘢𝘳𝘯 𝘢 𝘤𝘰𝘮𝘮𝘪𝘴𝘴𝘪𝘰𝘯 𝘰𝘳 𝘧𝘦𝘦 𝘢𝘴 𝘢 𝘴𝘱𝘰𝘯𝘴𝘰𝘳𝘴𝘩𝘪𝘱, 𝘪𝘧 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘵𝘩𝘦 𝘤𝘢𝘴𝘦 𝘸𝘦 𝘸𝘪𝘭𝘭 𝘢𝘭𝘸𝘢𝘺𝘴 𝘮𝘢𝘬𝘦 𝘴𝘶𝘳𝘦 𝘪𝘵 𝘪𝘴 𝘤𝘭𝘦𝘢𝘳. 𝘞𝘦 𝘢𝘳𝘦 𝘴𝘵𝘳𝘪𝘤𝘵𝘭𝘺 𝘢𝘯 𝘦𝘥𝘶𝘤𝘢𝘵𝘪𝘰𝘯𝘢𝘭 𝘤𝘰𝘯𝘵𝘦𝘯𝘵 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮, 𝘯𝘰𝘵𝘩𝘪𝘯𝘨 𝘸𝘦 𝘰𝘧𝘧𝘦𝘳 𝘪𝘴 𝘧𝘪𝘯𝘢𝘯𝘤𝘪𝘢𝘭 𝘢𝘥𝘷𝘪𝘤𝘦. 𝘞𝘦 𝘢𝘳𝘦 𝘯𝘰𝘵 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭𝘴 𝘰𝘳 𝘭𝘪𝘤𝘦𝘯𝘴𝘦𝘥 𝘢𝘥𝘷𝘪𝘴𝘰𝘳𝘴.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:37:09</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40823825/40823825-1733975328136-60879fecd270e.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[How To Become The Best Crypto Investor Of All Time with Santiago Santos]]></title>
 			<description><![CDATA[<p>Beyond protocols and price charts, today's episode dives into navigating crypto as an investor, builder, and human being.</p>
