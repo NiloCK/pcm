@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/machinelearningstreettalk</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 15 Jan 2025 19:24:44 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 16 Jan 2025 21:45:08 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/1e4a0eac/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Machine Learning Street Talk (MLST)]]></author>
 		<copyright><![CDATA[Machine Learning Street Talk (MLST)]]></copyright>
@@ -25,6 +25,138 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+		<item>
+			<title><![CDATA[Jurgen Schmidhuber on Humans co-existing with AIs]]></title>
+			<description><![CDATA[<p>Jürgen Schmidhuber, the father of generative AI, challenges current AI narratives, revealing that early deep learning work is in his opinion misattributed, where it actually originated in Ukraine and Japan. He discusses his early work on linear transformers and artificial curiosity which preceded modern developments, shares his expansive vision of AI colonising space, and explains his groundbreaking 1991 consciousness model. Schmidhuber dismisses fears of human-AI conflict, arguing that superintelligent AI scientists will be fascinated by their own origins and motivated to protect life rather than harm it, while being more interested in other superintelligent AI and in cosmic expansion than earthly matters. He offers unique insights into how humans and AI might coexist.
+
+This was the long-awaited second, unreleased part of our interview we filmed last time. 
+
+SPONSOR MESSAGES:
+***
+CentML offers competitive pricing for GenAI model deployment, with flexible options to suit a wide range of models, from small to large-scale deployments. 
+https://centml.ai/pricing/
+
+Tufa AI Labs is a brand new research lab in Zurich started by Benjamin Crouzier focussed on o-series style reasoning and AGI. Are you interested in working on reasoning, or getting involved in their events? 
+
+Goto https://tufalabs.ai/
+***
+
+Interviewer: Tim Scarfe
+
+TOC
+[00:00:00] The Nature and Motivations of AI 
+[00:02:08] Influential Inventions: 20th vs. 21st Century  
+[00:05:28] Transformer and GPT: A Reflection  
+The revolutionary impact of modern language models, the 1991 linear transformer, linear vs. quadratic scaling, the fast weight controller, and fast weight matrix memory.
+
+[00:11:03] Pioneering Contributions to AI and Deep Learning  
+The invention of the transformer, pre-trained networks, the first GANs, the role of predictive coding, and the emergence of artificial curiosity.
+
+[00:13:58] AI&#39;s Evolution and Achievements  
+The role of compute, breakthroughs in handwriting recognition and computer vision, the rise of GPU-based CNNs, achieving superhuman results, and Japanese contributions to CNN development.
+
+[00:15:40] The Hardware Lottery and GPUs  
+GPUs as a serendipitous advantage for AI, the gaming-AI parallel, and Nvidia&#39;s strategic shift towards AI.
+
+[00:19:58] AI Applications and Societal Impact  
+AI-powered translation breaking communication barriers, AI in medicine for imaging and disease prediction, and AI&#39;s potential for human enhancement and sustainable development.
+
+[00:23:26] The Path to AGI and Current Limitations  
+Distinguishing large language models from AGI, challenges in replacing physical world workers, and AI&#39;s difficulty in real-world versus board games.
+
+[00:25:56] AI and Consciousness  
+Simulating consciousness through unsupervised learning, chunking and automatizing neural networks, data compression, and self-symbols in predictive world models.
+
+[00:30:50] The Future of AI and Humanity  
+Transition from AGIs as tools to AGIs with their own goals, the role of humans in an AGI-dominated world, and the concept of Homo Ludens.
+
+[00:38:05] The AI Race: Europe, China, and the US  
+Europe&#39;s historical contributions, current dominance of the US and East Asia, and the role of venture capital and industrial policy.
+
+[00:50:32] Addressing AI Existential Risk  
+The obsession with AI existential risk, commercial pressure for friendly AIs, AI vs. hydrogen bombs, and the long-term future of AI.
+
+[00:58:00] The Fermi Paradox and Extraterrestrial Intelligence  
+Expanding AI bubbles as an explanation for the Fermi paradox, dark matter and encrypted civilizations, and Earth as the first to spawn an AI bubble.
+
+[01:02:08] The Diversity of AI and AI Ecologies  
+The unrealism of a monolithic super intelligence, diverse AIs with varying goals, and intense competition and collaboration in AI ecologies.
+
+[01:12:21] Final Thoughts and Closing Remarks  
+
+REFERENCES:
+See pinned comment on YT: <strong>https://youtu.be/fZYUqICYCAk</strong></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/Jurgen-Schmidhuber-on-Humans-co-existing-with-AIs-e2tjkb6</link>
+			<guid isPermaLink="false">6986baf2-ab2d-4a10-8c43-4ae8bfd81e4d</guid>
+			<dc:creator><![CDATA[Machine Learning Street Talk (MLST)]]></dc:creator>
+			<pubDate>Thu, 16 Jan 2025 21:42:55 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1e4a0eac/podcast/play/97160998/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-16%2Fdf844efa-ab18-f562-ed39-af86e3f5078d.mp3" length="105386278" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Jürgen Schmidhuber, the father of generative AI, challenges current AI narratives, revealing that early deep learning work is in his opinion misattributed, where it actually originated in Ukraine and Japan. He discusses his early work on linear transformers and artificial curiosity which preceded modern developments, shares his expansive vision of AI colonising space, and explains his groundbreaking 1991 consciousness model. Schmidhuber dismisses fears of human-AI conflict, arguing that superintelligent AI scientists will be fascinated by their own origins and motivated to protect life rather than harm it, while being more interested in other superintelligent AI and in cosmic expansion than earthly matters. He offers unique insights into how humans and AI might coexist.
+
+This was the long-awaited second, unreleased part of our interview we filmed last time. 
+
+SPONSOR MESSAGES:
+***
+CentML offers competitive pricing for GenAI model deployment, with flexible options to suit a wide range of models, from small to large-scale deployments. 
+https://centml.ai/pricing/
+
+Tufa AI Labs is a brand new research lab in Zurich started by Benjamin Crouzier focussed on o-series style reasoning and AGI. Are you interested in working on reasoning, or getting involved in their events? 
+
+Goto https://tufalabs.ai/
+***
+
+Interviewer: Tim Scarfe
+
+TOC
+[00:00:00] The Nature and Motivations of AI 
+[00:02:08] Influential Inventions: 20th vs. 21st Century  
+[00:05:28] Transformer and GPT: A Reflection  
+The revolutionary impact of modern language models, the 1991 linear transformer, linear vs. quadratic scaling, the fast weight controller, and fast weight matrix memory.
+
+[00:11:03] Pioneering Contributions to AI and Deep Learning  
+The invention of the transformer, pre-trained networks, the first GANs, the role of predictive coding, and the emergence of artificial curiosity.
+
+[00:13:58] AI&amp;#39;s Evolution and Achievements  
+The role of compute, breakthroughs in handwriting recognition and computer vision, the rise of GPU-based CNNs, achieving superhuman results, and Japanese contributions to CNN development.
+
+[00:15:40] The Hardware Lottery and GPUs  
+GPUs as a serendipitous advantage for AI, the gaming-AI parallel, and Nvidia&amp;#39;s strategic shift towards AI.
+
+[00:19:58] AI Applications and Societal Impact  
+AI-powered translation breaking communication barriers, AI in medicine for imaging and disease prediction, and AI&amp;#39;s potential for human enhancement and sustainable development.
+
+[00:23:26] The Path to AGI and Current Limitations  
+Distinguishing large language models from AGI, challenges in replacing physical world workers, and AI&amp;#39;s difficulty in real-world versus board games.
+
+[00:25:56] AI and Consciousness  
+Simulating consciousness through unsupervised learning, chunking and automatizing neural networks, data compression, and self-symbols in predictive world models.
+
+[00:30:50] The Future of AI and Humanity  
+Transition from AGIs as tools to AGIs with their own goals, the role of humans in an AGI-dominated world, and the concept of Homo Ludens.
+
+[00:38:05] The AI Race: Europe, China, and the US  
+Europe&amp;#39;s historical contributions, current dominance of the US and East Asia, and the role of venture capital and industrial policy.
+
+[00:50:32] Addressing AI Existential Risk  
+The obsession with AI existential risk, commercial pressure for friendly AIs, AI vs. hydrogen bombs, and the long-term future of AI.
+
+[00:58:00] The Fermi Paradox and Extraterrestrial Intelligence  
+Expanding AI bubbles as an explanation for the Fermi paradox, dark matter and encrypted civilizations, and Earth as the first to spawn an AI bubble.
+
+[01:02:08] The Diversity of AI and AI Ecologies  
+The unrealism of a monolithic super intelligence, diverse AIs with varying goals, and intense competition and collaboration in AI ecologies.
+
+[01:12:21] Final Thoughts and Closing Remarks  
+
+REFERENCES:
+See pinned comment on YT: &lt;strong&gt;https://youtu.be/fZYUqICYCAk&lt;/strong&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:12:50</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/4981699/4981699-1737063734146-df13ff28c3b9e.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Yoshua Bengio - Designing out Agency for Safe AI]]></title>
 			<description><![CDATA[<p>Professor Yoshua Bengio is a pioneer in deep learning and Turing Award winner. Bengio talks about AI safety, why goal-seeking “agentic” AIs might be dangerous, and his vision for building powerful AI tools without giving them agency. Topics include reward tampering risks, instrumental convergence, global AI governance, and how non-agent AIs could revolutionize science and medicine while reducing existential threats. Perfect for anyone curious about advanced AI risks and how to manage them responsibly.</p>
