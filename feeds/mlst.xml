@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/machinelearningstreettalk</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 16 Jan 2025 21:45:08 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 20 Jan 2025 00:30:02 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/1e4a0eac/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Machine Learning Street Talk (MLST)]]></author>
 		<copyright><![CDATA[Machine Learning Street Talk (MLST)]]></copyright>
@@ -25,6 +25,236 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+		<item>
+			<title><![CDATA[How Do AI Models Actually Think? - Laura Ruis]]></title>
+			<description><![CDATA[<p>Laura Ruis, a PhD student at University College London and researcher at Cohere, explains her groundbreaking research into how large language models (LLMs) perform reasoning tasks, the fundamental mechanisms underlying LLM reasoning capabilities, and whether these models primarily rely on retrieval or develop procedural knowledge.</p>
+<p><br></p>
+<p>SPONSOR MESSAGES:</p>
+<p>***</p>
+<p>CentML offers competitive pricing for GenAI model deployment, with flexible options to suit a wide range of models, from small to large-scale deployments. </p>
+<p>https://centml.ai/pricing/</p>
+<p><br></p>
+<p>Tufa AI Labs is a brand new research lab in Zurich started by Benjamin Crouzier focussed on o-series style reasoning and AGI. Are you interested in working on reasoning, or getting involved in their events? </p>
+<p><br></p>
+<p>Goto https://tufalabs.ai/</p>
+<p>***</p>
+<p><br></p>
+<p>TOC</p>
+<p><br></p>
+<p>1. LLM Foundations and Learning</p>
+<p> 1.1 Scale and Learning in Language Models [00:00:00]</p>
+<p>   1.2 Procedural Knowledge vs Fact Retrieval [00:03:40]</p>
+<p>   1.3 Influence Functions and Model Analysis [00:07:40]</p>
+<p>   1.4 Role of Code in LLM Reasoning [00:11:10]</p>
+<p>   1.5 Semantic Understanding and Physical Grounding [00:19:30]</p>
+<p><br></p>
+<p>2. Reasoning Architectures and Measurement</p>
+<p>   2.1 Measuring Understanding and Reasoning in Language Models [00:23:10]</p>
+<p>   2.2 Formal vs Approximate Reasoning and Model Creativity [00:26:40]</p>
+<p>   2.3 Symbolic vs Subsymbolic Computation Debate [00:34:10]</p>
+<p>   2.4 Neural Network Architectures and Tensor Product Representations [00:40:50]</p>
+<p><br></p>
+<p>3. AI Agency and Risk Assessment</p>
+<p>   3.1 Agency and Goal-Directed Behavior in Language Models [00:45:10]</p>
+<p>   3.2 Defining and Measuring Agency in AI Systems [00:49:50]</p>
+<p>   3.3 Core Knowledge Systems and Agency Detection [00:54:40]</p>
+<p>   3.4 Language Models as Agent Models and Simulator Theory [01:03:20]</p>
+<p>   3.5 AI Safety and Societal Control Mechanisms [01:07:10]</p>
+<p>   3.6 Evolution of AI Capabilities and Emergent Risks [01:14:20]</p>
+<p><br></p>
+<p>REFS:</p>
+<p>[00:01:10] Procedural Knowledge in Pretraining &amp; LLM Reasoning</p>
+<p>Ruis et al., 2024</p>
+<p>https://arxiv.org/abs/2411.12580</p>
+<p><br></p>
+<p>[00:03:50] EK-FAC Influence Functions in Large LMs</p>
+<p>Grosse et al., 2023</p>
+<p>https://arxiv.org/abs/2308.03296</p>
+<p><br></p>
+<p>[00:13:05] Surfaces and Essences: Analogy as the Core of Cognition</p>
+<p>Hofstadter &amp; Sander</p>
+<p>https://www.amazon.com/Surfaces-Essences-Analogy-Fuel-Thinking/dp/0465018475</p>
+<p><br></p>
+<p>[00:13:45] Wittgenstein on Language Games</p>
+<p>https://plato.stanford.edu/entries/wittgenstein/</p>
+<p><br></p>
+<p>[00:14:30] Montague Semantics for Natural Language</p>
+<p>https://plato.stanford.edu/entries/montague-semantics/</p>
+<p><br></p>
+<p>[00:19:35] The Chinese Room Argument</p>
+<p>David Cole</p>
+<p>https://plato.stanford.edu/entries/chinese-room/</p>
+<p><br></p>
+<p>[00:19:55] ARC: Abstraction and Reasoning Corpus</p>
+<p>François Chollet</p>
+<p>https://arxiv.org/abs/1911.01547</p>
+<p><br></p>
+<p>[00:24:20] Systematic Generalization in Neural Nets</p>
+<p>Lake &amp; Baroni, 2023</p>
+<p>https://www.nature.com/articles/s41586-023-06668-3</p>
+<p><br></p>
+<p>[00:27:40] Open-Endedness &amp; Creativity in AI</p>
+<p>Tim Rocktäschel</p>
+<p>https://arxiv.org/html/2406.04268v1</p>
+<p><br></p>
+<p>[00:30:50] Fodor &amp; Pylyshyn on Connectionism</p>
+<p>https://www.sciencedirect.com/science/article/abs/pii/0010027788900315</p>
+<p><br></p>
+<p>[00:31:30] Tensor Product Representations</p>
+<p>Smolensky, 1990</p>
+<p>https://www.sciencedirect.com/science/article/abs/pii/000437029090007M</p>
+<p><br></p>
+<p>[00:35:50] DreamCoder: Wake-Sleep Program Synthesis</p>
+<p>Kevin Ellis et al.</p>
+<p>https://courses.cs.washington.edu/courses/cse599j1/22sp/papers/dreamcoder.pdf</p>
+<p><br></p>
+<p>[00:36:30] Compositional Generalization Benchmarks</p>
+<p>Ruis, Lake et al., 2022</p>
+<p>https://arxiv.org/pdf/2202.10745</p>
+<p><br></p>
+<p>[00:40:30] RNNs &amp; Tensor Products</p>
+<p>McCoy et al., 2018</p>
+<p>https://arxiv.org/abs/1812.08718</p>
+<p><br></p>
+<p>[00:46:10] Formal Causal Definition of Agency</p>
+<p>Kenton et al.</p>
+<p>https://arxiv.org/pdf/2208.08345v2</p>
+<p><br></p>
+<p>[00:48:40] Agency in Language Models</p>
+<p>Sumers et al.</p>
+<p>https://arxiv.org/abs/2309.02427</p>
+<p><br></p>
+<p>[00:55:20] Heider &amp; Simmel’s Moving Shapes Experiment</p>
+<p>https://www.nature.com/articles/s41598-024-65532-0</p>
+<p><br></p>
+<p>[01:00:40] Language Models as Agent Models</p>
+<p>Jacob Andreas, 2022</p>
+<p>https://arxiv.org/abs/2212.01681</p>
+<p><br></p>
+<p>[01:13:35] Pragmatic Understanding in LLMs</p>
+<p>Ruis et al.</p>
+<p>https://arxiv.org/abs/2210.14986</p>
+<p><br></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/How-Do-AI-Models-Actually-Think----Laura-Ruis-e2tn9l9</link>
+			<guid isPermaLink="false">f1ecadd9-b99b-4a87-815a-476bf42264d6</guid>
+			<dc:creator><![CDATA[Machine Learning Street Talk (MLST)]]></dc:creator>
+			<pubDate>Mon, 20 Jan 2025 00:28:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1e4a0eac/podcast/play/97281129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-20%2F808da284-ab46-0ae7-eb82-bb0885ebbcb1.mp3" length="112639159" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Laura Ruis, a PhD student at University College London and researcher at Cohere, explains her groundbreaking research into how large language models (LLMs) perform reasoning tasks, the fundamental mechanisms underlying LLM reasoning capabilities, and whether these models primarily rely on retrieval or develop procedural knowledge.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;SPONSOR MESSAGES:&lt;/p&gt;
+&lt;p&gt;***&lt;/p&gt;
+&lt;p&gt;CentML offers competitive pricing for GenAI model deployment, with flexible options to suit a wide range of models, from small to large-scale deployments. &lt;/p&gt;
+&lt;p&gt;https://centml.ai/pricing/&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Tufa AI Labs is a brand new research lab in Zurich started by Benjamin Crouzier focussed on o-series style reasoning and AGI. Are you interested in working on reasoning, or getting involved in their events? &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Goto https://tufalabs.ai/&lt;/p&gt;
+&lt;p&gt;***&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;TOC&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;1. LLM Foundations and Learning&lt;/p&gt;
+&lt;p&gt; 1.1 Scale and Learning in Language Models [00:00:00]&lt;/p&gt;
+&lt;p&gt;   1.2 Procedural Knowledge vs Fact Retrieval [00:03:40]&lt;/p&gt;
+&lt;p&gt;   1.3 Influence Functions and Model Analysis [00:07:40]&lt;/p&gt;
+&lt;p&gt;   1.4 Role of Code in LLM Reasoning [00:11:10]&lt;/p&gt;
+&lt;p&gt;   1.5 Semantic Understanding and Physical Grounding [00:19:30]&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2. Reasoning Architectures and Measurement&lt;/p&gt;
+&lt;p&gt;   2.1 Measuring Understanding and Reasoning in Language Models [00:23:10]&lt;/p&gt;
+&lt;p&gt;   2.2 Formal vs Approximate Reasoning and Model Creativity [00:26:40]&lt;/p&gt;
+&lt;p&gt;   2.3 Symbolic vs Subsymbolic Computation Debate [00:34:10]&lt;/p&gt;
+&lt;p&gt;   2.4 Neural Network Architectures and Tensor Product Representations [00:40:50]&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;3. AI Agency and Risk Assessment&lt;/p&gt;
+&lt;p&gt;   3.1 Agency and Goal-Directed Behavior in Language Models [00:45:10]&lt;/p&gt;
+&lt;p&gt;   3.2 Defining and Measuring Agency in AI Systems [00:49:50]&lt;/p&gt;
+&lt;p&gt;   3.3 Core Knowledge Systems and Agency Detection [00:54:40]&lt;/p&gt;
+&lt;p&gt;   3.4 Language Models as Agent Models and Simulator Theory [01:03:20]&lt;/p&gt;
+&lt;p&gt;   3.5 AI Safety and Societal Control Mechanisms [01:07:10]&lt;/p&gt;
+&lt;p&gt;   3.6 Evolution of AI Capabilities and Emergent Risks [01:14:20]&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;REFS:&lt;/p&gt;
+&lt;p&gt;[00:01:10] Procedural Knowledge in Pretraining &amp;amp; LLM Reasoning&lt;/p&gt;
+&lt;p&gt;Ruis et al., 2024&lt;/p&gt;
+&lt;p&gt;https://arxiv.org/abs/2411.12580&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:03:50] EK-FAC Influence Functions in Large LMs&lt;/p&gt;
+&lt;p&gt;Grosse et al., 2023&lt;/p&gt;
+&lt;p&gt;https://arxiv.org/abs/2308.03296&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:13:05] Surfaces and Essences: Analogy as the Core of Cognition&lt;/p&gt;
+&lt;p&gt;Hofstadter &amp;amp; Sander&lt;/p&gt;
+&lt;p&gt;https://www.amazon.com/Surfaces-Essences-Analogy-Fuel-Thinking/dp/0465018475&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:13:45] Wittgenstein on Language Games&lt;/p&gt;
+&lt;p&gt;https://plato.stanford.edu/entries/wittgenstein/&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:14:30] Montague Semantics for Natural Language&lt;/p&gt;
+&lt;p&gt;https://plato.stanford.edu/entries/montague-semantics/&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:19:35] The Chinese Room Argument&lt;/p&gt;
+&lt;p&gt;David Cole&lt;/p&gt;
+&lt;p&gt;https://plato.stanford.edu/entries/chinese-room/&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:19:55] ARC: Abstraction and Reasoning Corpus&lt;/p&gt;
+&lt;p&gt;François Chollet&lt;/p&gt;
+&lt;p&gt;https://arxiv.org/abs/1911.01547&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:24:20] Systematic Generalization in Neural Nets&lt;/p&gt;
+&lt;p&gt;Lake &amp;amp; Baroni, 2023&lt;/p&gt;
+&lt;p&gt;https://www.nature.com/articles/s41586-023-06668-3&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:27:40] Open-Endedness &amp;amp; Creativity in AI&lt;/p&gt;
+&lt;p&gt;Tim Rocktäschel&lt;/p&gt;
+&lt;p&gt;https://arxiv.org/html/2406.04268v1&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:30:50] Fodor &amp;amp; Pylyshyn on Connectionism&lt;/p&gt;
+&lt;p&gt;https://www.sciencedirect.com/science/article/abs/pii/0010027788900315&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:31:30] Tensor Product Representations&lt;/p&gt;
+&lt;p&gt;Smolensky, 1990&lt;/p&gt;
+&lt;p&gt;https://www.sciencedirect.com/science/article/abs/pii/000437029090007M&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:35:50] DreamCoder: Wake-Sleep Program Synthesis&lt;/p&gt;
+&lt;p&gt;Kevin Ellis et al.&lt;/p&gt;
+&lt;p&gt;https://courses.cs.washington.edu/courses/cse599j1/22sp/papers/dreamcoder.pdf&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:36:30] Compositional Generalization Benchmarks&lt;/p&gt;
+&lt;p&gt;Ruis, Lake et al., 2022&lt;/p&gt;
+&lt;p&gt;https://arxiv.org/pdf/2202.10745&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:40:30] RNNs &amp;amp; Tensor Products&lt;/p&gt;
+&lt;p&gt;McCoy et al., 2018&lt;/p&gt;
+&lt;p&gt;https://arxiv.org/abs/1812.08718&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:46:10] Formal Causal Definition of Agency&lt;/p&gt;
+&lt;p&gt;Kenton et al.&lt;/p&gt;
+&lt;p&gt;https://arxiv.org/pdf/2208.08345v2&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:48:40] Agency in Language Models&lt;/p&gt;
+&lt;p&gt;Sumers et al.&lt;/p&gt;
+&lt;p&gt;https://arxiv.org/abs/2309.02427&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:55:20] Heider &amp;amp; Simmel’s Moving Shapes Experiment&lt;/p&gt;
+&lt;p&gt;https://www.nature.com/articles/s41598-024-65532-0&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[01:00:40] Language Models as Agent Models&lt;/p&gt;
+&lt;p&gt;Jacob Andreas, 2022&lt;/p&gt;
+&lt;p&gt;https://arxiv.org/abs/2212.01681&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[01:13:35] Pragmatic Understanding in LLMs&lt;/p&gt;
+&lt;p&gt;Ruis et al.&lt;/p&gt;
+&lt;p&gt;https://arxiv.org/abs/2210.14986&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:18:01</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/4981699/4981699-1737332869806-7fbd78a05b243.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Jurgen Schmidhuber on Humans co-existing with AIs]]></title>
 			<description><![CDATA[<p>Jürgen Schmidhuber, the father of generative AI, challenges current AI narratives, revealing that early deep learning work is in his opinion misattributed, where it actually originated in Ukraine and Japan. He discusses his early work on linear transformers and artificial curiosity which preceded modern developments, shares his expansive vision of AI colonising space, and explains his groundbreaking 1991 consciousness model. Schmidhuber dismisses fears of human-AI conflict, arguing that superintelligent AI scientists will be fascinated by their own origins and motivated to protect life rather than harm it, while being more interested in other superintelligent AI and in cosmic expansion than earthly matters. He offers unique insights into how humans and AI might coexist.
