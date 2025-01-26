@@ -9,7 +9,7 @@
 			<link>https://podcasters.spotify.com/pod/show/machinelearningstreettalk</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 23 Jan 2025 01:49:40 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 25 Jan 2025 21:25:34 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/1e4a0eac/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Machine Learning Street Talk (MLST)]]></author>
 		<copyright><![CDATA[Machine Learning Street Talk (MLST)]]></copyright>
@@ -25,6 +25,152 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+		<item>
+			<title><![CDATA[Nicholas Carlini (Google DeepMind)]]></title>
+			<description><![CDATA[<p>Nicholas Carlini from Google DeepMind offers his view of AI security, emergent LLM capabilities, and his groundbreaking model-stealing research. He reveals how LLMs can unexpectedly excel at tasks like chess and discusses the security pitfalls of LLM-generated code. </p>
+<p><br></p>
+<p>SPONSOR MESSAGES:</p>
+<p>***</p>
+<p>CentML offers competitive pricing for GenAI model deployment, with flexible options to suit a wide range of models, from small to large-scale deployments. </p>
+<p>https://centml.ai/pricing/</p>
+<p><br></p>
+<p>Tufa AI Labs is a brand new research lab in Zurich started by Benjamin Crouzier focussed on o-series style reasoning and AGI. Are you interested in working on reasoning, or getting involved in their events? </p>
+<p><br></p>
+<p>Goto https://tufalabs.ai/</p>
+<p>***</p>
+<p><br></p>
+<p>Transcript: https://www.dropbox.com/scl/fi/lat7sfyd4k3g5k9crjpbf/CARLINI.pdf?rlkey=b7kcqbvau17uw6rksbr8ccd8v&amp;dl=0</p>
+<p><br></p>
+<p>TOC:</p>
+<p>1. ML Security Fundamentals </p>
+<p>[00:00:00] 1.1 ML Model Reasoning and Security Fundamentals </p>
+<p>[00:03:04] 1.2 ML Security Vulnerabilities and System Design </p>
+<p>[00:08:22] 1.3 LLM Chess Capabilities and Emergent Behavior  </p>
+<p>[00:13:20] 1.4 Model Training, RLHF, and Calibration Effects  </p>
+<p><br></p>
+<p>2. Model Evaluation and Research Methods  </p>
+<p>[00:19:40] 2.1 Model Reasoning and Evaluation Metrics  </p>
+<p>[00:24:37] 2.2 Security Research Philosophy and Methodology  </p>
+<p>[00:27:50] 2.3 Security Disclosure Norms and Community Differences  </p>
+<p><br></p>
+<p>3. LLM Applications and Best Practices</p>
+<p>[00:44:29] 3.1 Practical LLM Applications and Productivity Gains  </p>
+<p>[00:49:51] 3.2 Effective LLM Usage and Prompting Strategies  </p>
+<p>[00:53:03] 3.3 Security Vulnerabilities in LLM-Generated Code  </p>
+<p><br></p>
+<p>4. Advanced LLM Research and Architecture</p>
+<p>[00:59:13] 4.1 LLM Code Generation Performance and O(1) Labs Experience  </p>
+<p>[01:03:31] 4.2 Adaptation Patterns and Benchmarking Challenges  </p>
+<p>[01:10:10] 4.3 Model Stealing Research and Production LLM Architecture Extraction  </p>
+<p><br></p>
+<p>REFS:</p>
+<p>[00:01:15] Nicholas Carlini’s personal website &amp; research profile (Google DeepMind, ML security) - https://nicholas.carlini.com/</p>
+<p><br></p>
+<p>[00:01:50] CentML AI compute platform for language model workloads - https://centml.ai/</p>
+<p><br></p>
+<p>[00:04:30] Seminal paper on neural network robustness against adversarial examples (Carlini &amp; Wagner, 2016) - https://arxiv.org/abs/1608.04644</p>
+<p><br></p>
+<p>[00:05:20] Computer Fraud and Abuse Act (CFAA) – primary U.S. federal law on computer hacking liability - https://www.justice.gov/jm/jm-9-48000-computer-fraud</p>
+<p><br></p>
+<p>[00:08:30] Blog post: Emergent chess capabilities in GPT-3.5-turbo-instruct (Nicholas Carlini, Sept 2023) - https://nicholas.carlini.com/writing/2023/chess-llm.html</p>
+<p><br></p>
+<p>[00:16:10] Paper: “Self-Play Preference Optimization for Language Model Alignment” (Yue Wu et al., 2024) - https://arxiv.org/abs/2405.00675</p>
+<p><br></p>
+<p>[00:18:00] GPT-4 Technical Report: development, capabilities, and calibration analysis - https://arxiv.org/abs/2303.08774</p>
+<p><br></p>
+<p>[00:22:40] Historical shift from descriptive to algebraic chess notation (FIDE) - https://en.wikipedia.org/wiki/Descriptive_notation</p>
+<p><br></p>
+<p>[00:23:55] Analysis of distribution shift in ML (Hendrycks et al.) - https://arxiv.org/abs/2006.16241</p>
+<p><br></p>
+<p>[00:27:40] Nicholas Carlini’s essay “Why I Attack” (June 2024) – motivations for security research - https://nicholas.carlini.com/writing/2024/why-i-attack.html</p>
+<p><br></p>
+<p>[00:34:05] Google Project Zero’s 90-day vulnerability disclosure policy - https://googleprojectzero.blogspot.com/p/vulnerability-disclosure-policy.html</p>
+<p><br></p>
+<p>[00:51:15] Evolution of Google search syntax &amp; user behavior (Daniel M. Russell) - https://www.amazon.com/Joy-Search-Google-Master-Information/dp/0262042878</p>
+<p><br></p>
+<p>[01:04:05] Rust’s ownership &amp; borrowing system for memory safety - https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html</p>
+<p><br></p>
+<p>[01:10:05] Paper: “Stealing Part of a Production Language Model” (Carlini et al., March 2024) – extraction attacks on ChatGPT, PaLM-2 - https://arxiv.org/abs/2403.06634</p>
+<p><br></p>
+<p>[01:10:55] First model stealing paper (Tramèr et al., 2016) – attacking ML APIs via prediction - https://arxiv.org/abs/1609.02943</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/Nicholas-Carlini-Google-DeepMind-e2tvqch</link>
+			<guid isPermaLink="false">56ca916a-6956-4124-a7bc-ddd727bbae94</guid>
+			<dc:creator><![CDATA[Machine Learning Street Talk (MLST)]]></dc:creator>
+			<pubDate>Sat, 25 Jan 2025 21:22:34 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1e4a0eac/podcast/play/97560401/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-25%2Fe2cfa06e-9d17-d934-48a1-c88f969a4f47.mp3" length="117320242" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Nicholas Carlini from Google DeepMind offers his view of AI security, emergent LLM capabilities, and his groundbreaking model-stealing research. He reveals how LLMs can unexpectedly excel at tasks like chess and discusses the security pitfalls of LLM-generated code. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;SPONSOR MESSAGES:&lt;/p&gt;
+&lt;p&gt;***&lt;/p&gt;
+&lt;p&gt;CentML offers competitive pricing for GenAI model deployment, with flexible options to suit a wide range of models, from small to large-scale deployments. &lt;/p&gt;
+&lt;p&gt;https://centml.ai/pricing/&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Tufa AI Labs is a brand new research lab in Zurich started by Benjamin Crouzier focussed on o-series style reasoning and AGI. Are you interested in working on reasoning, or getting involved in their events? &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Goto https://tufalabs.ai/&lt;/p&gt;
+&lt;p&gt;***&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Transcript: https://www.dropbox.com/scl/fi/lat7sfyd4k3g5k9crjpbf/CARLINI.pdf?rlkey=b7kcqbvau17uw6rksbr8ccd8v&amp;amp;dl=0&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;TOC:&lt;/p&gt;
+&lt;p&gt;1. ML Security Fundamentals &lt;/p&gt;
+&lt;p&gt;[00:00:00] 1.1 ML Model Reasoning and Security Fundamentals &lt;/p&gt;
+&lt;p&gt;[00:03:04] 1.2 ML Security Vulnerabilities and System Design &lt;/p&gt;
+&lt;p&gt;[00:08:22] 1.3 LLM Chess Capabilities and Emergent Behavior  &lt;/p&gt;
+&lt;p&gt;[00:13:20] 1.4 Model Training, RLHF, and Calibration Effects  &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2. Model Evaluation and Research Methods  &lt;/p&gt;
+&lt;p&gt;[00:19:40] 2.1 Model Reasoning and Evaluation Metrics  &lt;/p&gt;
+&lt;p&gt;[00:24:37] 2.2 Security Research Philosophy and Methodology  &lt;/p&gt;
+&lt;p&gt;[00:27:50] 2.3 Security Disclosure Norms and Community Differences  &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;3. LLM Applications and Best Practices&lt;/p&gt;
+&lt;p&gt;[00:44:29] 3.1 Practical LLM Applications and Productivity Gains  &lt;/p&gt;
+&lt;p&gt;[00:49:51] 3.2 Effective LLM Usage and Prompting Strategies  &lt;/p&gt;
+&lt;p&gt;[00:53:03] 3.3 Security Vulnerabilities in LLM-Generated Code  &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;4. Advanced LLM Research and Architecture&lt;/p&gt;
+&lt;p&gt;[00:59:13] 4.1 LLM Code Generation Performance and O(1) Labs Experience  &lt;/p&gt;
+&lt;p&gt;[01:03:31] 4.2 Adaptation Patterns and Benchmarking Challenges  &lt;/p&gt;
+&lt;p&gt;[01:10:10] 4.3 Model Stealing Research and Production LLM Architecture Extraction  &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;REFS:&lt;/p&gt;
+&lt;p&gt;[00:01:15] Nicholas Carlini’s personal website &amp;amp; research profile (Google DeepMind, ML security) - https://nicholas.carlini.com/&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:01:50] CentML AI compute platform for language model workloads - https://centml.ai/&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:04:30] Seminal paper on neural network robustness against adversarial examples (Carlini &amp;amp; Wagner, 2016) - https://arxiv.org/abs/1608.04644&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:05:20] Computer Fraud and Abuse Act (CFAA) – primary U.S. federal law on computer hacking liability - https://www.justice.gov/jm/jm-9-48000-computer-fraud&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:08:30] Blog post: Emergent chess capabilities in GPT-3.5-turbo-instruct (Nicholas Carlini, Sept 2023) - https://nicholas.carlini.com/writing/2023/chess-llm.html&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:16:10] Paper: “Self-Play Preference Optimization for Language Model Alignment” (Yue Wu et al., 2024) - https://arxiv.org/abs/2405.00675&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:18:00] GPT-4 Technical Report: development, capabilities, and calibration analysis - https://arxiv.org/abs/2303.08774&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:22:40] Historical shift from descriptive to algebraic chess notation (FIDE) - https://en.wikipedia.org/wiki/Descriptive_notation&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:23:55] Analysis of distribution shift in ML (Hendrycks et al.) - https://arxiv.org/abs/2006.16241&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:27:40] Nicholas Carlini’s essay “Why I Attack” (June 2024) – motivations for security research - https://nicholas.carlini.com/writing/2024/why-i-attack.html&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:34:05] Google Project Zero’s 90-day vulnerability disclosure policy - https://googleprojectzero.blogspot.com/p/vulnerability-disclosure-policy.html&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[00:51:15] Evolution of Google search syntax &amp;amp; user behavior (Daniel M. Russell) - https://www.amazon.com/Joy-Search-Google-Master-Information/dp/0262042878&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[01:04:05] Rust’s ownership &amp;amp; borrowing system for memory safety - https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[01:10:05] Paper: “Stealing Part of a Production Language Model” (Carlini et al., March 2024) – extraction attacks on ChatGPT, PaLM-2 - https://arxiv.org/abs/2403.06634&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;[01:10:55] First model stealing paper (Tramèr et al., 2016) – attacking ML APIs via prediction - https://arxiv.org/abs/1609.02943&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:21:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/4981699/4981699-1737840136317-df98d08139cef.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Subbarao Kambhampati - Do o1 models search?]]></title>
 			<description><![CDATA[<p>Join Prof. Subbarao Kambhampati and host Tim Scarfe for a deep dive into OpenAI&#39;s O1 model and the future of AI reasoning systems. </p>
