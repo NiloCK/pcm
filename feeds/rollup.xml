@@ -11,7 +11,7 @@ therollup.co]]></description>
 			<link>https://therollup.co</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 11 Feb 2025 14:14:50 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 00:44:58 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f3eccd24/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[The Rollup Co]]></author>
 		<copyright><![CDATA[The Rollup Co]]></copyright>
@@ -27,9 +27,7 @@ therollup.co</itunes:summary>
 			<itunes:email>team@therollup.co</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>No</itunes:explicit>
-		<itunes:category text="Business">
-			<itunes:category text="Investing"/>
-		</itunes:category>
+		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
 		<item>
 			<title><![CDATA[Inside Frax's Vision for Institutional Stablecoins with Sam Kazemian]]></title>
