@@ -6,12 +6,12 @@
 therollup.co]]></description>
 		<link>https://therollup.co</link>
 		<image>
-			<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg</url>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg</url>
 			<title>The Rollup</title>
 			<link>https://therollup.co</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Fri, 14 Feb 2025 14:01:41 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Feb 2025 14:48:18 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f3eccd24/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[The Rollup Co]]></author>
 		<copyright><![CDATA[The Rollup Co]]></copyright>
@@ -28,7 +28,23 @@ therollup.co</itunes:summary>
 		</itunes:owner>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
-		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
+		<item>
+			<title><![CDATA[Justin Drake & Federico Carrone on Ethereum’s Native Rollup Roadmap]]></title>
+			<description><![CDATA[<p>For today’s episode, we take a deep dive into native rollups.</p><p>While rollups improved Ethereum&#39;s scaling, they introduced key challenges like centralized control, MEV extraction, buggy execution, and fragmented liquidity across layers.</p><p>Luckily, there&#39;s a new method aiming to maintain rollup benefits while eliminating these issues.</p><p>Native rollups and based sequencing offer a solution. By integrating directly with Ethereum, native rollups simplify operations and enhance security. Based sequencing lets Ethereum validators manage transaction ordering, improving L2 coordination.</p><p>Teams are also considering shifting away from centralized sequencing for regulatory compliance.</p><p>We sat down to chat with Justin Drake from the Ethereum Foundation and Fede to discuss this rapid transition and its implications for Ethereum&#39;s future as well as key insights for anyone following Ethereum&#39;s scaling evolution.</p><p>Let&#39;s get into it.</p><p><br></p><p>Join The Rollup Edge: https://members.therollup.co</p><p>Website: https://therollup.co/</p><p>Spotify: https://open.spotify.com/show/1P6ZeYd..</p><p>Podcast: https://therollup.co/category/podcast</p><p>Follow us on X: https://www.x.com/therollupco</p><p>Follow Rob on X: https://www.x.com/robbie_rollup</p><p>Follow Andy on X: https://www.x.com/ayyyeandy</p><p>Join our TG group: https://t.me/+8ARkR_YZixE5YjBh</p><p>The Rollup Disclosures: https://therollup.co/the-rollup-discl</p><p><br></p><p>𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: 𝘐𝘯𝘷𝘦𝘴𝘵𝘪𝘯𝘨 𝘪𝘯 𝘤𝘳𝘺𝘱𝘵𝘰𝘤𝘶𝘳𝘳𝘦𝘯𝘤𝘺 𝘢𝘯𝘥 𝘋𝘦𝘍𝘪 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮𝘴 𝘤𝘰𝘮𝘦𝘴 𝘸𝘪𝘵𝘩 𝘪𝘯𝘩𝘦𝘳𝘦𝘯𝘵 𝘳𝘪𝘴𝘬𝘴 𝘪𝘯𝘤𝘭𝘶𝘥𝘪𝘯𝘨 𝘵𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭 𝘳𝘪𝘴𝘬, 𝘩𝘶𝘮𝘢𝘯 𝘦𝘳𝘳𝘰𝘳, 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮 𝘧𝘢𝘪𝘭𝘶𝘳𝘦 𝘢𝘯𝘥 𝘮𝘰𝘳𝘦. 𝘈𝘵 𝘤𝘦𝘳𝘵𝘢𝘪𝘯 𝘱𝘰𝘪𝘯𝘵𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩𝘰𝘶𝘵 𝘵𝘩𝘪𝘴 𝘤𝘩𝘢𝘯𝘯𝘦𝘭, 𝘸𝘦 𝘮𝘢𝘺 𝘦𝘢𝘳𝘯 𝘢 𝘤𝘰𝘮𝘮𝘪𝘴𝘴𝘪𝘰𝘯 𝘰𝘳 𝘧𝘦𝘦 𝘢𝘴 𝘢 𝘴𝘱𝘰𝘯𝘴𝘰𝘳𝘴𝘩𝘪𝘱, 𝘪𝘧 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘵𝘩𝘦 𝘤𝘢𝘴𝘦 𝘸𝘦 𝘸𝘪𝘭𝘭 𝘢𝘭𝘸𝘢𝘺𝘴 𝘮𝘢𝘬𝘦 𝘴𝘶𝘳𝘦 𝘪𝘵 𝘪𝘴 𝘤𝘭𝘦𝘢𝘳. 𝘞𝘦 𝘢𝘳𝘦 𝘴𝘵𝘳𝘪𝘤𝘵𝘭𝘺 𝘢𝘯 𝘦𝘥𝘶𝘤𝘢𝘵𝘪𝘰𝘯𝘢𝘭 𝘤𝘰𝘯𝘵𝘦𝘯𝘵 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮, 𝘯𝘰𝘵𝘩𝘪𝘯𝘨 𝘸𝘦 𝘰𝘧𝘧𝘦𝘳 𝘪𝘴 𝘧𝘪𝘯𝘢𝘯𝘤𝘪𝘢𝘭 𝘢𝘥𝘷𝘪𝘤𝘦. 𝘞𝘦 𝘢𝘳𝘦 𝘯𝘰𝘵 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭𝘴 𝘰𝘳 𝘭𝘪𝘤𝘦𝘯𝘴𝘦𝘥 𝘢𝘥𝘷𝘪𝘴𝘰𝘳𝘴.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/the-rollup/episodes/Justin-Drake--Federico-Carrone-on-Ethereums-Native-Rollup-Roadmap-e2v06cm</link>
+			<guid isPermaLink="false">cecc5866-a0a9-45b3-b6f6-87f139a60cde</guid>
+			<dc:creator><![CDATA[The Rollup Co]]></dc:creator>
+			<pubDate>Mon, 17 Feb 2025 14:45:52 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/f3eccd24/podcast/play/98621270/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-17%2F395030784-44100-2-24dc886663cf1.mp3" length="73979192" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;For today’s episode, we take a deep dive into native rollups.&lt;/p&gt;&lt;p&gt;While rollups improved Ethereum&amp;#39;s scaling, they introduced key challenges like centralized control, MEV extraction, buggy execution, and fragmented liquidity across layers.&lt;/p&gt;&lt;p&gt;Luckily, there&amp;#39;s a new method aiming to maintain rollup benefits while eliminating these issues.&lt;/p&gt;&lt;p&gt;Native rollups and based sequencing offer a solution. By integrating directly with Ethereum, native rollups simplify operations and enhance security. Based sequencing lets Ethereum validators manage transaction ordering, improving L2 coordination.&lt;/p&gt;&lt;p&gt;Teams are also considering shifting away from centralized sequencing for regulatory compliance.&lt;/p&gt;&lt;p&gt;We sat down to chat with Justin Drake from the Ethereum Foundation and Fede to discuss this rapid transition and its implications for Ethereum&amp;#39;s future as well as key insights for anyone following Ethereum&amp;#39;s scaling evolution.&lt;/p&gt;&lt;p&gt;Let&amp;#39;s get into it.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Join The Rollup Edge: https://members.therollup.co&lt;/p&gt;&lt;p&gt;Website: https://therollup.co/&lt;/p&gt;&lt;p&gt;Spotify: https://open.spotify.com/show/1P6ZeYd..&lt;/p&gt;&lt;p&gt;Podcast: https://therollup.co/category/podcast&lt;/p&gt;&lt;p&gt;Follow us on X: https://www.x.com/therollupco&lt;/p&gt;&lt;p&gt;Follow Rob on X: https://www.x.com/robbie_rollup&lt;/p&gt;&lt;p&gt;Follow Andy on X: https://www.x.com/ayyyeandy&lt;/p&gt;&lt;p&gt;Join our TG group: https://t.me/+8ARkR_YZixE5YjBh&lt;/p&gt;&lt;p&gt;The Rollup Disclosures: https://therollup.co/the-rollup-discl&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: 𝘐𝘯𝘷𝘦𝘴𝘵𝘪𝘯𝘨 𝘪𝘯 𝘤𝘳𝘺𝘱𝘵𝘰𝘤𝘶𝘳𝘳𝘦𝘯𝘤𝘺 𝘢𝘯𝘥 𝘋𝘦𝘍𝘪 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮𝘴 𝘤𝘰𝘮𝘦𝘴 𝘸𝘪𝘵𝘩 𝘪𝘯𝘩𝘦𝘳𝘦𝘯𝘵 𝘳𝘪𝘴𝘬𝘴 𝘪𝘯𝘤𝘭𝘶𝘥𝘪𝘯𝘨 𝘵𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭 𝘳𝘪𝘴𝘬, 𝘩𝘶𝘮𝘢𝘯 𝘦𝘳𝘳𝘰𝘳, 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮 𝘧𝘢𝘪𝘭𝘶𝘳𝘦 𝘢𝘯𝘥 𝘮𝘰𝘳𝘦. 𝘈𝘵 𝘤𝘦𝘳𝘵𝘢𝘪𝘯 𝘱𝘰𝘪𝘯𝘵𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩𝘰𝘶𝘵 𝘵𝘩𝘪𝘴 𝘤𝘩𝘢𝘯𝘯𝘦𝘭, 𝘸𝘦 𝘮𝘢𝘺 𝘦𝘢𝘳𝘯 𝘢 𝘤𝘰𝘮𝘮𝘪𝘴𝘴𝘪𝘰𝘯 𝘰𝘳 𝘧𝘦𝘦 𝘢𝘴 𝘢 𝘴𝘱𝘰𝘯𝘴𝘰𝘳𝘴𝘩𝘪𝘱, 𝘪𝘧 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘵𝘩𝘦 𝘤𝘢𝘴𝘦 𝘸𝘦 𝘸𝘪𝘭𝘭 𝘢𝘭𝘸𝘢𝘺𝘴 𝘮𝘢𝘬𝘦 𝘴𝘶𝘳𝘦 𝘪𝘵 𝘪𝘴 𝘤𝘭𝘦𝘢𝘳. 𝘞𝘦 𝘢𝘳𝘦 𝘴𝘵𝘳𝘪𝘤𝘵𝘭𝘺 𝘢𝘯 𝘦𝘥𝘶𝘤𝘢𝘵𝘪𝘰𝘯𝘢𝘭 𝘤𝘰𝘯𝘵𝘦𝘯𝘵 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮, 𝘯𝘰𝘵𝘩𝘪𝘯𝘨 𝘸𝘦 𝘰𝘧𝘧𝘦𝘳 𝘪𝘴 𝘧𝘪𝘯𝘢𝘯𝘤𝘪𝘢𝘭 𝘢𝘥𝘷𝘪𝘤𝘦. 𝘞𝘦 𝘢𝘳𝘦 𝘯𝘰𝘵 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭𝘴 𝘰𝘳 𝘭𝘪𝘤𝘦𝘯𝘴𝘦𝘥 𝘢𝘥𝘷𝘪𝘴𝘰𝘳𝘴.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:17:03</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40823825/40823825-1739803090516-55183868bc4d1.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[How ZK Will Power Bitcoin’s Next Era of Scaling]]></title>
 			<description><![CDATA[<p>Bitcoin has dominated crypto, but has remained largely inactive in DeFi. While ETH and Solana lead in onchain activity, a significant amount of BTC remains unused.</p><p>BitVM introduces a solution. Unlike traditional custodians or multi-sig bridges, it provides a trust-minimized approach to integrating BTC with DeFi – expanding Bitcoin&#39;s utility beyond just a store of value.</p><p>We spoke with Alexei (Bob), Yovela (Fiamma), and Jacob (Boundless) to examine BitVM&#39;s mechanics, its place in Bitcoin&#39;s scaling roadmap, and its implications for users seeking secure yield opportunities.</p><p>For those following Bitcoin rollups and the technical barriers to BTC adoption in DeFi, this discussion offers valuable insights.</p><p>Let&#39;s begin.</p><p><br></p><p>Join The Rollup Edge: https://members.therollup.co</p><p>Website: https://therollup.co/</p><p>Spotify: https://open.spotify.com/show/1P6ZeYd..</p><p>Podcast: https://therollup.co/category/podcast</p><p>Follow us on X: https://www.x.com/therollupco</p><p>Follow Rob on X: https://www.x.com/robbie_rollup</p><p>Follow Andy on X: https://www.x.com/ayyyeandy</p><p>Join our TG group: https://t.me/+8ARkR_YZixE5YjBh</p><p>The Rollup Disclosures: https://therollup.co/the-rollup-discl</p><p><br></p><p>𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥: 𝘐𝘯𝘷𝘦𝘴𝘵𝘪𝘯𝘨 𝘪𝘯 𝘤𝘳𝘺𝘱𝘵𝘰𝘤𝘶𝘳𝘳𝘦𝘯𝘤𝘺 𝘢𝘯𝘥 𝘋𝘦𝘍𝘪 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮𝘴 𝘤𝘰𝘮𝘦𝘴 𝘸𝘪𝘵𝘩 𝘪𝘯𝘩𝘦𝘳𝘦𝘯𝘵 𝘳𝘪𝘴𝘬𝘴 𝘪𝘯𝘤𝘭𝘶𝘥𝘪𝘯𝘨 𝘵𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭 𝘳𝘪𝘴𝘬, 𝘩𝘶𝘮𝘢𝘯 𝘦𝘳𝘳𝘰𝘳, 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮 𝘧𝘢𝘪𝘭𝘶𝘳𝘦 𝘢𝘯𝘥 𝘮𝘰𝘳𝘦. 𝘈𝘵 𝘤𝘦𝘳𝘵𝘢𝘪𝘯 𝘱𝘰𝘪𝘯𝘵𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩𝘰𝘶𝘵 𝘵𝘩𝘪𝘴 𝘤𝘩𝘢𝘯𝘯𝘦𝘭, 𝘸𝘦 𝘮𝘢𝘺 𝘦𝘢𝘳𝘯 𝘢 𝘤𝘰𝘮𝘮𝘪𝘴𝘴𝘪𝘰𝘯 𝘰𝘳 𝘧𝘦𝘦 𝘢𝘴 𝘢 𝘴𝘱𝘰𝘯𝘴𝘰𝘳𝘴𝘩𝘪𝘱, 𝘪𝘧 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘵𝘩𝘦 𝘤𝘢𝘴𝘦 𝘸𝘦 𝘸𝘪𝘭𝘭 𝘢𝘭𝘸𝘢𝘺𝘴 𝘮𝘢𝘬𝘦 𝘴𝘶𝘳𝘦 𝘪𝘵 𝘪𝘴 𝘤𝘭𝘦𝘢𝘳. 𝘞𝘦 𝘢𝘳𝘦 𝘴𝘵𝘳𝘪𝘤𝘵𝘭𝘺 𝘢𝘯 𝘦𝘥𝘶𝘤𝘢𝘵𝘪𝘰𝘯𝘢𝘭 𝘤𝘰𝘯𝘵𝘦𝘯𝘵 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮, 𝘯𝘰𝘵𝘩𝘪𝘯𝘨 𝘸𝘦 𝘰𝘧𝘧𝘦𝘳 𝘪𝘴 𝘧𝘪𝘯𝘢𝘯𝘤𝘪𝘢𝘭 𝘢𝘥𝘷𝘪𝘤𝘦. 𝘞𝘦 𝘢𝘳𝘦 𝘯𝘰𝘵 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭𝘴 𝘰𝘳 𝘭𝘪𝘤𝘦𝘯𝘴𝘦𝘥 𝘢𝘥𝘷𝘪𝘴𝘰𝘳𝘴.</p>
@@ -1948,7 +1964,7 @@ This is a must-watch conversation.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:07:59</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -1992,7 +2008,7 @@ This is a must-watch conversation.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:17:24</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -3710,7 +3726,7 @@ This is a must-watch conversation.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:06:07</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -3996,7 +4012,7 @@ This is a must-watch conversation.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:09:59</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -4016,7 +4032,7 @@ This is a must-watch conversation.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:21:06</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -4278,7 +4294,7 @@ This is a must-watch conversation.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:56:51</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -4396,7 +4412,7 @@ This is a must-watch conversation.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:53:50</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -4556,7 +4572,7 @@ This is a must-watch conversation.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:42:15</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -4940,7 +4956,7 @@ This is a must-watch conversation.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:42:32</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -5230,7 +5246,7 @@ This is a must-watch conversation.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:53:26</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -5346,7 +5362,7 @@ Ismael Hishon-Rezaizadeh from Lagrange&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:43:36</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -5446,7 +5462,7 @@ Ismael Hishon-Rezaizadeh from Lagrange&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:48:41</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -5564,7 +5580,7 @@ Ismael Hishon-Rezaizadeh from Lagrange&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:48:37</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -5864,7 +5880,7 @@ Ismael Hishon-Rezaizadeh from Lagrange&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>01:47:37</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -6082,7 +6098,7 @@ Ismael Hishon-Rezaizadeh from Lagrange&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:57:21</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -6114,7 +6130,7 @@ Ismael Hishon-Rezaizadeh from Lagrange&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:51:31</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -6648,7 +6664,7 @@ There&amp;#39;s been an ongoing debate about whether or not we need more L2s. Wi
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:05:27</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -6668,7 +6684,7 @@ There&amp;#39;s been an ongoing debate about whether or not we need more L2s. Wi
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:07:02</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -6688,7 +6704,7 @@ There&amp;#39;s been an ongoing debate about whether or not we need more L2s. Wi
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:10:25</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -6714,7 +6730,7 @@ Listen here:&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:03:28</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -6776,7 +6792,7 @@ Listen here:&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:43:50</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -6838,7 +6854,7 @@ Listen here:&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>01:00:56</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -6904,7 +6920,7 @@ Listen here:&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:47:27</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -6970,7 +6986,7 @@ Listen here:&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:50:03</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -7024,7 +7040,7 @@ Listen here:&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:36:08</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -7082,7 +7098,7 @@ Listen here:&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:48:55</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -7148,7 +7164,7 @@ Listen here:&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:57:58</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -7210,7 +7226,7 @@ Listen here:&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:45:46</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -8068,7 +8084,7 @@ The Rollup Disclosures: https://therollup.co/the-rollup-discl
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:28:36</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -8142,7 +8158,7 @@ The Rollup Disclosures: &lt;a href=&quot;https://www.youtube.com/redirect?event=
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:35:29</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -8214,7 +8230,7 @@ The Rollup Disclosures: https://therollup.co/the-rollup-discl
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:42:20</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -8280,7 +8296,7 @@ The Rollup Disclosures: https://therollup.co/the-rollup-discl&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:31:47</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -8344,7 +8360,7 @@ Website: https://therollup.co/&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:42:56</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -8464,7 +8480,7 @@ Website: https://therollup.co/&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:49:08</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -8534,7 +8550,7 @@ Website: https://therollup.co/&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>01:12:00</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -8608,7 +8624,7 @@ Website: https://therollup.co/&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:45:32</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -8684,7 +8700,7 @@ Website: https://therollup.co/&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:25:50</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -8758,7 +8774,7 @@ The Rollup Disclosures: https://therollup.co/the-rollup-discl
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:36:40</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -8852,7 +8868,7 @@ The Rollup Disclosures: https://therollup.co/the-rollup-discl
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:52:13</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -8936,7 +8952,7 @@ The Rollup Disclosures: &lt;a href=&quot;https://www.youtube.com/redirect?event=
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:44:09</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -9002,7 +9018,7 @@ The Rollup Disclosures: https://therollup.co/the-rollup-discl&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:47:56</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -9070,7 +9086,7 @@ The Rollup Disclosures: https://therollup.co/the-rollup-discl
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>01:06:59</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -9138,7 +9154,7 @@ The Rollup Disclosures: https://therollup.co/the-rollup-discl
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:37:14</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -9206,7 +9222,7 @@ The Rollup Disclosures: https://therollup.co/the-rollup-discl
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>01:47:24</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -9286,7 +9302,7 @@ The Rollup Disclosures: https://therollup.co/the-rollup-discl
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:53:05</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -9382,7 +9398,7 @@ The Rollup Disclosures: https://therollup.co/the-rollup-discl
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>01:00:31</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -9444,7 +9460,7 @@ The Rollup Disclosures: https://therollup.co/the-rollup-discl
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:42:45</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -9518,7 +9534,7 @@ The Rollup Disclosures: https://therollup.co/the-rollup-discl
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:55:14</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -9546,7 +9562,7 @@ The Rollup Disclosures: https://therollup.co/the-rollup-discl
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:41:23</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1721171418880-3823f6c3c218e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
