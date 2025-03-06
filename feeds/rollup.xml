@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 	<channel>
 		<title><![CDATA[The Rollup]]></title>
-		<description><![CDATA[Technical discourse, truth seeking, and open debate for the modular future.
+		<description><![CDATA[The backbone of the digital info age.
 
-therollup.co]]></description>
+Explore: https://therollup.co/]]></description>
 		<link>https://therollup.co</link>
 		<image>
 			<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40823825/40823825-1739780223312-e35f560728c6a.jpg</url>
@@ -11,16 +11,16 @@ therollup.co]]></description>
 			<link>https://therollup.co</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 05 Mar 2025 15:09:40 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 05 Mar 2025 21:56:22 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f3eccd24/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[The Rollup Co]]></author>
 		<copyright><![CDATA[The Rollup Co]]></copyright>
 		<language><![CDATA[en-us]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 		<itunes:author>The Rollup Co</itunes:author>
-		<itunes:summary>Technical discourse, truth seeking, and open debate for the modular future.
+		<itunes:summary>The backbone of the digital info age.
 
-therollup.co</itunes:summary>
+Explore: https://therollup.co/</itunes:summary>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
 			<itunes:name>The Rollup Co</itunes:name>
