@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
 	<channel>
 		<title><![CDATA[The Rollup]]></title>
-		<description><![CDATA[The backbone of the digital info age.
+		<description><![CDATA[Face-to-face with the most important people in digital assets. 
 
 Explore: https://therollup.co/]]></description>
 		<link>https://therollup.co</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 24 Jun 2025 03:43:19 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 24 Jun 2025 19:00:38 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f3eccd24/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[The Rollup Co]]></author>
 		<copyright><![CDATA[The Rollup Co]]></copyright>
 		<language><![CDATA[en-us]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 		<itunes:author>The Rollup Co</itunes:author>
-		<itunes:summary>The backbone of the digital info age.
+		<itunes:summary>Face-to-face with the most important people in digital assets. 
 
 Explore: https://therollup.co/</itunes:summary>
 		<itunes:type>episodic</itunes:type>
