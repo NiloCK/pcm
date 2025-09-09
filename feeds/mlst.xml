@@ -4,7 +4,7 @@
 		<description><![CDATA[Welcome! We engage in fascinating discussions with pre-eminent figures in the AI field. Our flagship show covers current affairs in AI, cognitive science, neuroscience and philosophy of mind with in-depth analysis. Our approach is unrivalled in terms of scope and rigour – we believe in intellectual diversity in AI, and we touch on all of the main ideas in the field with the hype surgically removed. MLST is run by Tim Scarfe, Ph.D (https://www.linkedin.com/in/ecsquizor/) and features regular appearances from MIT Doctor of Philosophy Keith Duggar (https://www.linkedin.com/in/dr-keith-duggar/). ]]></description>
 		<link>https://podcasters.spotify.com/pod/show/machinelearningstreettalk</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Fri, 05 Sep 2025 09:40:08 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 09 Sep 2025 11:08:27 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/1e4a0eac/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Machine Learning Street Talk (MLST)]]></author>
 		<copyright><![CDATA[Machine Learning Street Talk (MLST)]]></copyright>
@@ -19,7 +19,7 @@
 		</itunes:owner>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Technology"/>
-		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 		<item>
 			<title><![CDATA[The Day AI Solves My Puzzles Is The Day I Worry (Prof. Cristopher Moore)]]></title>
 			<description><![CDATA[<p>We are joined by Cristopher Moore, a professor at the Santa Fe Institute with a diverse background in physics, computer science, and machine learning.</p><p><br></p><p>The conversation begins with Cristopher, who calls himself a &quot;frog&quot; explaining that he prefers to dive deep into specific, concrete problems rather than taking a high-level &quot;bird&#39;s-eye view&quot;. </p><p><br></p><p>They explore why current AI models, like transformers, are so surprisingly effective. Cristopher argues it&#39;s because the real world isn&#39;t random; it&#39;s full of rich structures, patterns, and hierarchies that these models can learn to exploit, even if we don&#39;t fully understand how.</p><p><br></p><p>**SPONSORS**</p><p>Take the Prolific human data survey - https://www.prolific.com/humandatasurvey?utm_source=mlst and be the first to see the results and benchmark their practices against the wider community!</p><p>---</p><p>cyber•Fund https://cyber.fund/?utm_source=mlst is a founder-led investment firm accelerating the cybernetic economy.</p><p>Oct SF conference - https://dagihouse.com/?utm_source=mlst - Joscha Bach keynoting(!) + OAI, Anthropic, NVDA,++</p><p>Hiring a SF VC Principal: https://talent.cyber.fund/companies/cyber-fund-2/jobs/57674170-ai-investment-principal#content?utm_source=mlst</p><p>Submit investment deck: https://cyber.fund/contact?utm_source=mlst</p><p>***</p><p><br></p><p>Cristopher Moore:</p><p>https://sites.santafe.edu/~moore/</p><p><br></p><p>TOC:</p><p>00:00:00 - Introduction</p><p>00:02:05 - Meet Christopher Moore: A Frog in the World of Science</p><p>00:05:14 - The Limits of Transformers and Real-World Data</p><p>00:11:19 - Intelligence as Creative Problem-Solving</p><p>00:23:30 - Grounding, Meaning, and Shared Reality</p><p>00:31:09 - The Nature of Creativity and Aesthetics</p><p>00:44:31 - Computational Irreducibility and Universality</p><p>00:53:06 - Turing Completeness, Recursion, and Intelligence</p><p>01:11:26 - The Universe Through a Computational Lens</p><p>01:26:45 - Algorithmic Justice and the Need for Transparency</p><p><br></p><p>TRANSCRIPT: https://app.rescript.info/public/share/VRe2uQSvKZOm0oIBoDsrNwt46OMCqRnShVnUF3qyoFk</p><p><br></p><p>Filmed at DISI (Diverse Intelligences Summer Institute)</p><p>https://disi.org/</p><p><br></p><p>REFS:</p><p>The Nature of computation [Chris Moore]</p><p>https://nature-of-computation.org/ </p><p><br></p><p>Birds and Frogs [Freeman Dyson]</p><p>https://www.ams.org/notices/200902/rtx090200212p.pdf </p><p><br></p><p>Replica Theory [Parisi et al]</p><p>https://arxiv.org/pdf/1409.2722 </p><p><br></p><p>Janossy pooling [Fabian Fuchs]</p><p>https://fabianfuchsml.github.io/equilibriumaggregation/ </p><p><br></p><p>Cracking the cryptic [YT channel]</p><p>https://www.youtube.com/c/CrackingTheCryptic</p><p><br></p><p>Sudoko Bench [Sakana]</p><p>https://sakana.ai/sudoku-bench/</p><p><br></p><p>Fractured entangled representations “phylogenetic locking in comment” [Kumar/Stanley]</p><p>https://arxiv.org/pdf/2505.11581 (see our shows on this)</p><p><br></p><p>The War Against Cliché: [Martin Amis]</p><p>https://www.amazon.com/War-Against-Cliche-Reviews-1971-2000/dp/0375727167</p><p><br></p><p>Rule 110 (CA)</p><p>https://mathworld.wolfram.com/Rule150.html</p><p><br></p><p>Universality in Elementary Cellular Automata [Matt Cooke]</p><p>https://wpmedia.wolfram.com/sites/13/2018/02/15-1-1.pdf </p><p><br></p><p>Small Semi-Weakly Universal Turing Machines [Damien Woods] </p><p>https://tilde.ini.uzh.ch/users/tneary/public_html/WoodsNeary-FI09.pdf </p><p><br></p><p>COMPUTING MACHINERY AND INTELLIGENCE [Turing, 1950]</p><p>https://courses.cs.umbc.edu/471/papers/turing.pdf </p><p><br></p><p>Comment on Space Time as a causal set [Moore, 88]</p><p>https://sites.santafe.edu/~moore/comment.pdf </p><p><br></p><p>Recursion Theory on the Reals and Continuous-time Computation [Moore, 96]</p>
@@ -9014,7 +9014,7 @@ TOC:
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>01:31:28</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>122</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -14534,7 +14534,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>01:36:21</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>55</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -14552,7 +14552,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>02:24:12</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>54</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -14636,7 +14636,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>02:17:39</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>53</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -14692,7 +14692,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>01:48:16</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>52</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -14714,7 +14714,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>02:01:42</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>51</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -14740,7 +14740,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>01:33:22</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>50</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -14818,7 +14818,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:37:27</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>48</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -14938,7 +14938,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>01:40:12</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>47</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -15024,7 +15024,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>01:39:57</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>46</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -15088,7 +15088,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>02:30:17</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>45</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -15148,7 +15148,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:52:22</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>44</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -15200,7 +15200,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>01:35:14</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>43</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -15264,7 +15264,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>01:33:59</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>42</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -15338,7 +15338,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>01:26:56</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>41</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -15426,7 +15426,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>01:36:15</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>40</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -15536,7 +15536,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>01:58:21</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>39</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -15644,7 +15644,7 @@ Interviewer: Dr. Tim Scarfe&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>02:46:26</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1699437574146-72eb9fca1ae9c.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/4981699/4981699-1757416025703-f026fa81b6d04.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>38</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
